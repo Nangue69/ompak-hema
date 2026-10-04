@@ -1,0 +1,50 @@
+{
+  "F1": {
+    "titulo": "Report a damaged product",
+    "descripcion": "Used to report in the system an item that arrives broken, dirty or stained. Type how many units (PU) are damaged and confirm. The \"Damaged Qty\" counter on screen goes up and that product is not sent to the customer: put it on the damaged goods trolley."
+  },
+  "F2": {
+    "titulo": "Return a wrong pallet",
+    "descripcion": "Returns a pallet that does not belong here and waits for the system to send an empty pallet automatically. It is rarely used: that wait is usually long, so to speed up the return and get back to work people normally use F6 instead."
+  },
+  "F3": {
+    "titulo": "Supervisor function",
+    "descripcion": "This is not an operator key. The supervisor uses it. If you think it is needed, call them instead of pressing it yourself."
+  },
+  "F4": {
+    "titulo": "Weigh again",
+    "descripcion": "Repeats the weighing when the \"Check PU weight\" step does not give the expected weight. Before repeating, check that nothing is leaning on the scale or left outside the tote. It is also used to accept errors that happen inside the system."
+  },
+  "F5": {
+    "titulo": "Confirm the tote",
+    "descripcion": "This is the key you will use most. It confirms the Tote-ID you have just scanned and, in the packing step, does the counting with the scale (\"Do counting by scale\"). Always check the tote number on screen before confirming. It also confirms any operation in the system: it is used so much that the workstation has an external button wired to F5, so you do not have to reach the keyboard."
+  },
+  "F6": {
+    "titulo": "Finish the article",
+    "descripcion": "Closes the current article or pallet (\"Finish article/Pal\"). Use it only when there are no units left to repack: check the \"Qty to repack\" counter first."
+  },
+  "F7": {
+    "titulo": "Supervisor function",
+    "descripcion": "On screen it appears as \"Manco\" (reporting missing units), but it is not an operator key: the supervisor runs it. If stock is missing on the pallet, call them."
+  },
+  "F8": {
+    "titulo": "Supervisor function",
+    "descripcion": "This is not an operator key. The supervisor uses it. If you think it is needed, call them instead of pressing it yourself."
+  },
+  "F9": {
+    "titulo": "Add the rest of the pallet",
+    "descripcion": "Adds articles to the system when, at the end, there is leftover stock from the pallet. Count what is left carefully before entering it: that number is added to the stock."
+  },
+  "F10": {
+    "titulo": "Not used",
+    "descripcion": "This key is not used at the workstation. If you press it by mistake, it has no effect on the system."
+  },
+  "F11": {
+    "titulo": "Go back",
+    "descripcion": "Navigates back through the windows of the system without losing what you have already done. It is the safe way out when you have gone one step too far."
+  },
+  "F12": {
+    "titulo": "Cancel",
+    "descripcion": "Cancels any operation you are running in the system. What you were entering is not saved. If you hesitate between F11 and F12, use F11: cancelling forces you to repeat the whole step."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "aprendiz": {
+    "nombre": "En formación",
+    "periodo": "Semana 1",
+    "texto": "Lo importante ahora es hacerlo bien, no rápido. Pregunta todo lo que no entiendas."
+  },
+  "autonomo": {
+    "nombre": "Autónomo",
+    "periodo": "Semana 2",
+    "texto": "Ya trabajas solo. El ritmo sube porque dudas menos, no porque corras más."
+  },
+  "pleno": {
+    "nombre": "Standard de la empresa",
+    "periodo": "Semana 3",
+    "texto": "Es el ritmo que se espera de un operario con el puesto aprendido, manteniendo la calidad."
+  }
+}

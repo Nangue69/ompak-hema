@@ -1,0 +1,50 @@
+{
+  "F1": {
+    "titulo": "Zgłoszenie uszkodzonego produktu",
+    "descripcion": "Służy do zgłoszenia w systemie towaru, który jest zepsuty, brudny lub poplamiony. Wpisz, ile sztuk (PU) jest uszkodzonych, i zatwierdź. Licznik \"Damaged Qty\" na ekranie rośnie, a produkt nie trafia do klienta: odłóż go na wózek uszkodzeń."
+  },
+  "F2": {
+    "titulo": "Zwrot błędnej palety",
+    "descripcion": "Zwraca paletę, która tu nie pasuje, i czeka, aż system automatycznie przyśle pustą paletę. Używane rzadko: to czekanie zwykle trwa długo, więc żeby przyspieszyć zwrot i wrócić do pracy, zazwyczaj wybiera się F6."
+  },
+  "F3": {
+    "titulo": "Funkcja przełożonego",
+    "descripcion": "To nie jest klawisz dla pracownika. Używa go przełożony. Jeśli uważasz, że jest potrzebny, zawołaj go zamiast naciskać samemu."
+  },
+  "F4": {
+    "titulo": "Ponowne ważenie",
+    "descripcion": "Powtarza ważenie, gdy krok \"Check PU weight\" nie daje oczekiwanej wagi. Zanim powtórzysz, sprawdź, czy nic nie opiera się o wagę i czy nic nie zostało poza pojemnikiem. Służy też do przejęcia błędów powstałych wewnątrz systemu."
+  },
+  "F5": {
+    "titulo": "Potwierdzenie pojemnika",
+    "descripcion": "To klawisz, którego będziesz używać najczęściej. Potwierdza zeskanowany Tote-ID, a w kroku pakowania wykonuje liczenie wagą (\"Do counting by scale\"). Zawsze sprawdź numer pojemnika na ekranie przed potwierdzeniem. Potwierdza też każdą inną operację w systemie: jest używany tak często, że na stanowisku jest zewnętrzny przycisk podłączony do F5, żeby nie sięgać do klawiatury."
+  },
+  "F6": {
+    "titulo": "Zakończenie artykułu",
+    "descripcion": "Zamyka bieżący artykuł lub paletę (\"Finish article/Pal\"). Użyj tylko wtedy, gdy nie ma już nic do przepakowania: sprawdź wcześniej licznik \"Qty to repack\"."
+  },
+  "F7": {
+    "titulo": "Funkcja przełożonego",
+    "descripcion": "Na ekranie widnieje jako \"Manco\" (zgłoszenie brakujących sztuk), ale to nie jest klawisz dla pracownika: wykonuje to przełożony. Jeśli na palecie brakuje towaru, zawołaj go."
+  },
+  "F8": {
+    "titulo": "Funkcja przełożonego",
+    "descripcion": "To nie jest klawisz dla pracownika. Używa go przełożony. Jeśli uważasz, że jest potrzebny, zawołaj go zamiast naciskać samemu."
+  },
+  "F9": {
+    "titulo": "Dodanie resztek z palety",
+    "descripcion": "Dodaje artykuły do systemu, gdy po zakończeniu zostają resztki z palety. Policz dokładnie to, co zostało, zanim wpiszesz: ta liczba dolicza się do stanu magazynowego."
+  },
+  "F10": {
+    "titulo": "Nieużywany",
+    "descripcion": "Ten klawisz nie jest używany na stanowisku. Jeśli naciśniesz go przez pomyłkę, nie ma to żadnego wpływu na system."
+  },
+  "F11": {
+    "titulo": "Krok wstecz",
+    "descripcion": "Cofa się przez okna systemu bez utraty tego, co już zrobiłeś. To bezpieczne wyjście, gdy przeskoczyłeś krok za daleko."
+  },
+  "F12": {
+    "titulo": "Anuluj",
+    "descripcion": "Anuluje każdą operację wykonywaną w systemie. To, co wpisywałeś, nie zostaje zapisane. Jeśli wahasz się między F11 a F12, wybierz F11: anulowanie oznacza powtórzenie całego kroku."
+  }
+}

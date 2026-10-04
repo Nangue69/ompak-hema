@@ -1,0 +1,17 @@
+{
+  "aprendiz": {
+    "nombre": "In opleiding",
+    "periodo": "Week 1",
+    "texto": "Nu telt het goed doen, niet het snel doen. Vraag alles wat je niet begrijpt."
+  },
+  "autonomo": {
+    "nombre": "Zelfstandig",
+    "periodo": "Week 2",
+    "texto": "Je werkt nu alleen. Het tempo gaat omhoog omdat je minder twijfelt, niet omdat je rent."
+  },
+  "pleno": {
+    "nombre": "Norm van het bedrijf",
+    "periodo": "Week 3",
+    "texto": "Dit is het tempo dat verwacht wordt van een medewerker die de werkplek kent, met behoud van kwaliteit."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "f1": {
+    "titulo": "Produkt ustawiony pionowo",
+    "texto": "Obrusy stoją pionowo i w tę samą stronę: łatwo je policzyć i się nie zaginają. Sprawdź, czy żaden nie wystaje poza krawędź pojemnika."
+  },
+  "f2": {
+    "titulo": "Pojemnik ułożony rzędami",
+    "texto": "Ten sam artykuł, równe rzędy i bez luk. Dzięki temu liczenie wagą się zgadza, a pojemnik nie przesuwa się na taśmie."
+  },
+  "f3": {
+    "titulo": "Produkt w worku luzem",
+    "texto": "Gdy produkt leży luzem w worku w pojemniku, rozsypuje się na taśmie i liczenie może się nie zgodzić. Zgrupuj go i spłaszcz."
+  },
+  "f4": {
+    "titulo": "Zmierz, zanim wybierzesz karton",
+    "texto": "Wysokość, długość i szerokość produktu, minus margines, dają właściwy karton. Jeśli nie masz pewności co do rozmiaru, zmierz: to szybsze niż powtarzanie zamówienia."
+  },
+  "f5": {
+    "titulo": "Uporządkowane stanowisko",
+    "texto": "Skaner pod ręką, wyłącznik awaryjny wolny i tylko bieżący pojemnik na stole. Nic nie opiera się o taśmę ani o wagę."
+  }
+}

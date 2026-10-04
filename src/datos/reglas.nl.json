@@ -1,0 +1,86 @@
+{
+  "casa": [
+    {
+      "tipo": "obligatorio",
+      "titulo": "Kom op tijd en klok in",
+      "texto": "Sta op de starttijd op je werkplek, niet pas bij de deur. Klok altijd in en uit."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Veiligheidsschoenen",
+      "texto": "Verplicht in de hele hal. Zonder veiligheidsschoenen mag je het werkgebied niet in."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Loop over de gemarkeerde paden",
+      "texto": "Houd je aan de voetgangerslijnen."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "Geen telefoon op de werkplek",
+      "texto": "De telefoon blijft in je kluisje of in je zak. Gebruik hem alleen in de pauze en in de kantine."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Berg je spullen op in het kluisje",
+      "texto": "Rugzakken, grote tassen en jassen zijn niet toegestaan in het werkgebied. Gebruik daarvoor de kluisjes: zo houd je je werkplek vrij."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "Niet eten of drinken aan de lijn",
+      "texto": "Alleen water in een gesloten fles. Eten doe je in de kantine."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "Niet rennen",
+      "texto": "Niet als je haast hebt en niet aan het eind van de dienst. De meeste ongelukken gebeuren tijdens het rennen."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Meld je afwezigheid",
+      "texto": "Ben je ziek of kom je later, meld dit voor het begin van de dienst via het afgesproken kanaal."
+    }
+  ],
+  "ompak": [
+    {
+      "tipo": "obligatorio",
+      "titulo": "Altijd scannen",
+      "texto": "Een artikel dat niet gescand is, bestaat niet voor het systeem. Doe nooit een product in de doos zonder te scannen."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Een doos, een order",
+      "texto": "Meng geen artikelen van twee verschillende orders in dezelfde doos, ook niet als ze naar dezelfde plek gaan."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Controleer voor het afsluiten",
+      "texto": "Kijk naar het scherm en naar de doos: zelfde artikel, zelfde aantal. Afsluiten is de laatste stap, niet de eerste."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Meld schade met F1",
+      "texto": "Kapot, vuil of geopend product gaat niet weg. Meld het met F1 en zet het op de schadekar."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "Geen dozen met onleesbare of ontbrekende labels",
+      "texto": "Is het label met stift beschreven, gescheurd of vaag aan een kant of aan beide kanten, haal de doos er dan uit en zet hem bij de gebruikte dozen aan het kantoorloket."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "Laat je sessie niet openstaan",
+      "texto": "Verlaat je de werkplek, meld je dan af. De productie van de volgende persoon komt anders op jouw naam."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Houd de tafel leeg",
+      "texto": "Alleen de lopende order op tafel. Karton gaat naar de kartonlijn en plastic meteen in de juiste container."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Wissel het mesje op de aangewezen plek",
+      "texto": "Het mesje wordt strikt aan het kantoorloket gewisseld en het gebruikte mesje gaat in de daarvoor bestemde container. Wisselen op de werkplek is niet toegestaan."
+    }
+  ]
+}

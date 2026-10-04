@@ -1,0 +1,87 @@
+{
+  "idioma": "Polski",
+  "app": {
+    "nombre": "Ompak HEMA",
+    "bienvenida": "Witamy w dziale Ompak",
+    "subtitulo": "Twój podstawowy podręcznik",
+    "pie": "Opleiding Ompak · Do użytku wewnętrznego HEMA",
+    "autor": "Wykonał Angel Gonzalez © 2026"
+  },
+  "nav": {
+    "atras": "Wstecz",
+    "inicio": "Start",
+    "salir": "Wyloguj",
+    "tema": "Zmień motyw",
+    "idioma": "Język"
+  },
+  "login": {
+    "titulo": "Logowanie",
+    "intro": "Wpisz swój Key-user i hasło.",
+    "usuario": "Key-user",
+    "password": "Hasło",
+    "entrar": "Zaloguj",
+    "entrando": "Sprawdzanie...",
+    "error_credenciales": "Błędny Key-user lub hasło.",
+    "error_caducado": "Ten Key-user wygasł. Poproś przełożonego o nowy.",
+    "error_vacio": "Wypełnij oba pola.",
+    "aviso_validez": "Każdy Key-user jest ważny 5 dni od pierwszego użycia.",
+    "dias_restantes_uno": "Został Ci 1 dzień dostępu.",
+    "dias_restantes_varios": "Zostało Ci {n} dni dostępu.",
+    "error_inesperado": "Wystąpił nieoczekiwany błąd. Powiadom przełożonego."
+  },
+  "sesion": {
+    "caducada_titulo": "Dostęp wygasł",
+    "caducada_texto": "Twój Key-user przekroczył 5 dni ważności. Poproś przełożonego o nowy.",
+    "volver": "Wróć do logowania",
+    "salir_confirmar": "Na pewno chcesz się wylogować?"
+  },
+  "menu": {
+    "comandos_titulo": "Podstawowe komendy",
+    "comandos_desc": "Od F1 do F12: co robi każdy klawisz",
+    "reglas_titulo": "Zasady",
+    "reglas_desc": "Zasady firmy i zasady Ompak",
+    "consejos_titulo": "Przydatne wskazówki",
+    "consejos_desc": "Porady i błędy, których należy unikać",
+    "standard_titulo": "Norma produkcji",
+    "standard_desc": "Picki i kartony na godzinę"
+  },
+  "comandos": {
+    "titulo": "Podstawowe komendy",
+    "intro": "Dotknij klawisza z listy, aby zobaczyć, co robi i co pojawia się na ekranie komputera.",
+    "que_hace": "Do czego służy",
+    "en_pantalla": "Co zobaczysz na ekranie",
+    "pantalla_real": "Tak wygląda prawdziwy ekran systemu na stanowisku pracy.",
+    "glosario": "Słowa, które zobaczysz na ekranie"
+  },
+  "reglas": {
+    "titulo": "Zasady",
+    "intro": "Przestrzegaj ich zawsze, także gdy się spieszysz.",
+    "casa": "Firmy",
+    "ompak": "Ompak"
+  },
+  "consejos": {
+    "titulo": "Przydatne wskazówki",
+    "intro": "Drobne nawyki, które zapobiegają większości błędów.",
+    "errores_titulo": "Najczęstsze błędy",
+    "errores_intro": "Prawdziwe zdjęcia z działu. Sprawdź dokładnie, zanim wyślesz karton."
+  },
+  "standard": {
+    "titulo": "Norma produkcji",
+    "intro": "Tego się od Ciebie oczekuje na stanowisku, w przeliczeniu na godzinę pracy.",
+    "picks_hora": "picki / godz.",
+    "cajas_hora": "kartony / godz.",
+    "calculadora_titulo": "Jak mi idzie?",
+    "calculadora_intro": "Wpisz, ile zrobiłeś, i sprawdź swoje tempo.",
+    "picks_hechos": "Wykonane picki",
+    "horas": "Przepracowane godziny",
+    "del_objetivo": "normy",
+    "tu_ritmo": "Twoje tempo: {n} picków/godz.",
+    "resultado_bien": "Bardzo dobrze, trzymasz normę.",
+    "resultado_cerca": "Już prawie, tak trzymaj.",
+    "resultado_bajo": "Wciąż poniżej normy. Sprawdź wskazówki.",
+    "rellena": "Wpisz picki i godziny, aby zobaczyć swoje tempo."
+  },
+  "comun": {
+    "revisar": "Tekst roboczy, do weryfikacji."
+  }
+}

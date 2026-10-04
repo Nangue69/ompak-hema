@@ -1,0 +1,8 @@
+{
+  "objetivo": "pleno",
+  "niveles": [
+    { "id": "aprendiz", "picks": 650, "cajas": 35 },
+    { "id": "autonomo", "picks": 800, "cajas": 40 },
+    { "id": "pleno", "picks": 900, "cajas": 43 }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "f1": {
+    "titulo": "Producto colocado de pie",
+    "texto": "Los manteles van de pie y en el mismo sentido: se cuentan de un vistazo y no se doblan. Fíjate en que ninguno sobresale del borde del tote."
+  },
+  "f2": {
+    "titulo": "Tote ordenado por filas",
+    "texto": "Mismo artículo, filas iguales y sin huecos. Así el conteo con la balanza cuadra y el tote no se mueve en la cinta."
+  },
+  "f3": {
+    "titulo": "Producto en bolsa suelto",
+    "texto": "Cuando el producto va en bolsa y queda suelto en el tote, se desordena en la cinta y el conteo puede fallar. Agrúpalo y aplánalo."
+  },
+  "f4": {
+    "titulo": "Mide antes de decidir la caja",
+    "texto": "Alto, largo y ancho del producto, menos el margen, te dan la caja correcta. Si dudas del tamaño, mide: es más rápido que repetir el pedido."
+  },
+  "f5": {
+    "titulo": "El puesto, despejado",
+    "texto": "Escáner a mano, parada de emergencia libre y solo el tote en curso en la mesa. Nada apoyado sobre la cinta ni sobre la balanza."
+  }
+}

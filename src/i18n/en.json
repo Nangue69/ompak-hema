@@ -1,0 +1,87 @@
+{
+  "idioma": "English",
+  "app": {
+    "nombre": "Ompak HEMA",
+    "bienvenida": "Welcome to the Ompak department",
+    "subtitulo": "Your basic instructions manual",
+    "pie": "Opleiding Ompak · HEMA internal use",
+    "autor": "Made by Angel Gonzalez © 2026"
+  },
+  "nav": {
+    "atras": "Back",
+    "inicio": "Home",
+    "salir": "Log out",
+    "tema": "Switch theme",
+    "idioma": "Language"
+  },
+  "login": {
+    "titulo": "Sign in",
+    "intro": "Enter your Key-user and password.",
+    "usuario": "Key-user",
+    "password": "Password",
+    "entrar": "Sign in",
+    "entrando": "Checking...",
+    "error_credenciales": "Wrong Key-user or password.",
+    "error_caducado": "This Key-user has expired. Ask your supervisor for a new one.",
+    "error_vacio": "Please fill in both fields.",
+    "aviso_validez": "Each Key-user is valid for 5 days from first use.",
+    "dias_restantes_uno": "You have 1 day of access left.",
+    "dias_restantes_varios": "You have {n} days of access left.",
+    "error_inesperado": "An unexpected error occurred. Tell your supervisor."
+  },
+  "sesion": {
+    "caducada_titulo": "Access expired",
+    "caducada_texto": "Your Key-user has passed its 5 days of validity. Ask your supervisor for a new one.",
+    "volver": "Back to sign in",
+    "salir_confirmar": "Are you sure you want to log out?"
+  },
+  "menu": {
+    "comandos_titulo": "Basic commands",
+    "comandos_desc": "F1 to F12: what each key does",
+    "reglas_titulo": "Rules",
+    "reglas_desc": "House rules and Ompak rules",
+    "consejos_titulo": "Useful tips",
+    "consejos_desc": "Tricks and mistakes to avoid",
+    "standard_titulo": "Production standard",
+    "standard_desc": "Picks and boxes per hour"
+  },
+  "comandos": {
+    "titulo": "Basic commands",
+    "intro": "Tap a key in the list to see what it does and what appears on the PC screen.",
+    "que_hace": "What it is for",
+    "en_pantalla": "What you will see on screen",
+    "pantalla_real": "This is what the real system screen looks like at the workstation.",
+    "glosario": "Words you will see on screen"
+  },
+  "reglas": {
+    "titulo": "Rules",
+    "intro": "Always follow them, also when you are in a hurry.",
+    "casa": "House",
+    "ompak": "Ompak"
+  },
+  "consejos": {
+    "titulo": "Useful tips",
+    "intro": "Small habits that prevent most mistakes.",
+    "errores_titulo": "Common mistakes to avoid",
+    "errores_intro": "Real photos from the department. Look carefully before sending the box."
+  },
+  "standard": {
+    "titulo": "Production standard",
+    "intro": "This is what is expected from you at the workstation, per working hour.",
+    "picks_hora": "picks / hour",
+    "cajas_hora": "boxes / hour",
+    "calculadora_titulo": "How am I doing?",
+    "calculadora_intro": "Type what you have done and check your pace.",
+    "picks_hechos": "Picks done",
+    "horas": "Hours worked",
+    "del_objetivo": "of the target",
+    "tu_ritmo": "Your pace: {n} picks/hour",
+    "resultado_bien": "Well done, you are on standard.",
+    "resultado_cerca": "Almost there, keep going.",
+    "resultado_bajo": "Still below. Check the tips section.",
+    "rellena": "Enter picks and hours to see your pace."
+  },
+  "comun": {
+    "revisar": "Draft text, pending review."
+  }
+}

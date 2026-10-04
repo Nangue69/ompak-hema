@@ -1,0 +1,86 @@
+{
+  "casa": [
+    {
+      "tipo": "obligatorio",
+      "titulo": "Przychodź punktualnie i odbijaj kartę",
+      "texto": "O godzinie rozpoczęcia bądź na stanowisku, a nie dopiero w drzwiach. Zawsze odbijaj kartę przy wejściu i wyjściu."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Obuwie ochronne",
+      "texto": "Obowiązkowe w całej hali. Bez obuwia ochronnego nie wolno wchodzić do strefy pracy."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Chodź wyznaczonymi ciągami",
+      "texto": "Przestrzegaj linii dla pieszych."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "Żadnych telefonów na stanowisku",
+      "texto": "Telefon zostaje w szafce lub w kieszeni. Używaj go tylko na przerwie i w stołówce."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Trzymaj swoje rzeczy w szafce",
+      "texto": "Plecaki, duże torby i kurtki nie są dozwolone w strefie pracy. Korzystaj z przeznaczonych do tego szafek: tak utrzymasz wolne stanowisko."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "Nie jedz i nie pij przy linii",
+      "texto": "Tylko woda w zamkniętej butelce. Posiłki jemy w stołówce."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "Zakaz biegania",
+      "texto": "Ani w pośpiechu, ani pod koniec zmiany. Większość wypadków zdarza się podczas biegu."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Zgłaszaj nieobecność",
+      "texto": "Gdy jesteś chory lub się spóźnisz, zgłoś to przed rozpoczęciem zmiany wskazanym kanałem."
+    }
+  ],
+  "ompak": [
+    {
+      "tipo": "obligatorio",
+      "titulo": "Zawsze skanuj",
+      "texto": "Artykuł, którego nie zeskanowano, nie istnieje dla systemu. Nigdy nie wkładaj produktu do kartonu bez skanowania."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Jeden karton, jedno zamówienie",
+      "texto": "Nie mieszaj artykułów z dwóch różnych zamówień w jednym kartonie, nawet jeśli jadą w to samo miejsce."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Sprawdź przed zamknięciem",
+      "texto": "Spójrz na ekran i na karton: ten sam artykuł, ta sama ilość. Zamknięcie to ostatni krok, nie pierwszy."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Zgłaszaj uszkodzenia przez F1",
+      "texto": "Produkt zepsuty, brudny lub otwarty nie jedzie do klienta. Zgłoś go klawiszem F1 i odłóż na wózek uszkodzeń."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "Żadnych kartonów z nieczytelną etykietą lub bez etykiety",
+      "texto": "Jeśli etykieta jest zamazana flamastrem, podarta lub nieczytelna z jednej albo z obu stron, odłóż karton i postaw go przy używanych kartonach w okienku biura."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "Nie zostawiaj otwartej sesji",
+      "texto": "Opuszczając stanowisko, wyloguj się. Produkcja następnej osoby doliczy się do twojego nazwiska."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Utrzymuj porządek na stole",
+      "texto": "Na stole tylko bieżące zamówienie. Karton trafia na linię kartonów, a folia od razu do właściwego pojemnika."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Wymieniaj ostrze w wyznaczonym miejscu",
+      "texto": "Ostrze wymienia się wyłącznie w okienku biura, a zużyte wrzuca do przeznaczonego na to pojemnika. Wymiana na stanowisku pracy jest zabroniona."
+    }
+  ]
+}

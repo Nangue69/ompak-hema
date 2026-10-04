@@ -1,0 +1,17 @@
+{
+  "aprendiz": {
+    "nombre": "In training",
+    "periodo": "Week 1",
+    "texto": "What matters now is doing it right, not fast. Ask about anything you do not understand."
+  },
+  "autonomo": {
+    "nombre": "Independent",
+    "periodo": "Week 2",
+    "texto": "You work on your own now. The pace goes up because you hesitate less, not because you rush."
+  },
+  "pleno": {
+    "nombre": "Company standard",
+    "periodo": "Week 3",
+    "texto": "This is the pace expected from an operator who knows the job, while keeping the quality."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "pu": "Packing Unit: one selling unit, what the customer buys. If the screen asks for 14 PU, that is 14 single products.",
+  "tote": "The blue plastic box (bak) in which you place the repacked product.",
+  "tote_id": "The number of the tote. You scan it from the label on the bak and it must match the one on screen.",
+  "pu_carton": "How many units a carton of unprocessed articles contains.",
+  "qty_repack": "The units of this article that still have to be repacked.",
+  "damaged": "The units you have reported as damaged with F1.",
+  "manco": "Missing stock: the pallet brings fewer units than the system asks for. The supervisor reports it with F7.",
+  "pallet_id": "The number of the pallet you are working on. Check that it matches the label on the real pallet.",
+  "tara": "Weighing of the empty tote. The system needs it to calculate later how many units are inside.",
+  "worklist": "The list of steps on the left of the screen. The step you are in is highlighted in green."
+}

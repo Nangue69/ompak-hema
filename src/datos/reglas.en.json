@@ -1,0 +1,86 @@
+{
+  "casa": [
+    {
+      "tipo": "obligatorio",
+      "titulo": "Be on time and clock in",
+      "texto": "Be at the workstation at the starting time, not walking through the door. Always clock in and out."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Safety shoes",
+      "texto": "Mandatory in the whole warehouse. Without safety shoes you cannot enter the working area."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Walk in the marked lanes",
+      "texto": "Respect the pedestrian lines."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "No phone at the workstation",
+      "texto": "The phone stays in your locker or in your pocket. Use it only during the break and in the canteen."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Keep your things in the locker",
+      "texto": "Backpacks, big bags and coats are not allowed in the working area. Use the lockers provided: that is how you keep your workspace clear."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "No eating or drinking on the line",
+      "texto": "Only water in a closed bottle. Food is eaten in the canteen."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "No running",
+      "texto": "Not when you are in a hurry, not at the end of the shift. Most accidents happen while running."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Report your absence",
+      "texto": "If you are ill or will be late, report it before the shift starts through the channel you were given."
+    }
+  ],
+  "ompak": [
+    {
+      "tipo": "obligatorio",
+      "titulo": "Always scan",
+      "texto": "An item that is not scanned does not exist for the system. Never put a product in the box without scanning it."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "One box, one order",
+      "texto": "Do not mix items from two different orders in the same box, even if they go to the same place."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Check before closing",
+      "texto": "Look at the screen and at the box: same item, same quantity. Closing is the last step, not the first."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Report damage with F1",
+      "texto": "A broken, dirty or opened product is not sent. Report it with F1 and put it in the damaged goods trolley."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "No boxes with unreadable or missing labels",
+      "texto": "If the label is marked with a pen, torn or blurred on one side or on both, take the box out and put it with the used boxes at the office window."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "Do not leave your session open",
+      "texto": "When you leave the station, log out. The production of the next person would be added to your name."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Keep the table clear",
+      "texto": "Only the current order on the table. Cardboard goes to the cardboard line and plastic straight into the right container."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Change the knife blade in the right place",
+      "texto": "The blade is changed strictly at the office window and the used one goes into the container provided for it. Changing it at the workstation is not allowed."
+    }
+  ]
+}

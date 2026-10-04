@@ -1,0 +1,12 @@
+{
+  "pu": "Packing Unit: jedna jednostka sprzedaży, to co kupuje klient. Jeśli ekran prosi o 14 PU, to 14 pojedynczych produktów.",
+  "tote": "Niebieski plastikowy pojemnik, do którego wkładasz przepakowany produkt.",
+  "tote_id": "Numer pojemnika. Skanujesz go z etykiety na pojemniku i musi zgadzać się z numerem na ekranie.",
+  "pu_carton": "Ile sztuk zawiera karton z nieprzetworzonymi artykułami.",
+  "qty_repack": "Sztuki tego artykułu, które jeszcze trzeba przepakować.",
+  "damaged": "Sztuki zgłoszone jako uszkodzone klawiszem F1.",
+  "manco": "Brak towaru: paleta zawiera mniej sztuk, niż wymaga system. Zgłasza to przełożony klawiszem F7.",
+  "pallet_id": "Numer palety, nad którą pracujesz. Sprawdź, czy zgadza się z etykietą na rzeczywistej palecie.",
+  "tara": "Ważenie pustego pojemnika. System potrzebuje tego, aby później obliczyć, ile sztuk jest w środku.",
+  "worklist": "Lista kroków po lewej stronie ekranu. Krok, w którym jesteś, jest podświetlony na zielono."
+}

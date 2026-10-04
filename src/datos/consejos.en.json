@@ -1,0 +1,34 @@
+{
+  "n1": {
+    "titulo": "Choose the right box",
+    "texto": "Check that it has its label on both sides and that it is clean. Remove the stickers from the top panel and any other sticker, plus leftover paper and cardboard. If the box is very dirty or wet, take it out; once you have at least five, send them away with an empty pallet."
+  },
+  "n2": {
+    "titulo": "Follow the filling rules",
+    "texto": "Boxes over 25 kilos may not be sent: if that happens, call a supervisor. Fill the box to 75%, up to the inner fill limit line. If you go past that line, you can cause a technical problem anywhere on the line."
+  },
+  "n3": {
+    "titulo": "Repacking loose bottles",
+    "texto": "When you get a pallet with loose bottles, without boxes, they are always sent upright in the blue boxes. Make sure none lies down or upside down: if one is badly closed, it can spill all the liquid and cause a technical problem."
+  },
+  "c5": {
+    "titulo": "Do not overfill",
+    "texto": "If you have to press to close it, the box will open on the conveyor. Use two boxes rather than forcing one."
+  },
+  "c6": {
+    "titulo": "One thing at a time",
+    "texto": "Finish one order before starting the next. Two open orders on the table end up mixed."
+  },
+  "c7": {
+    "titulo": "Steady pace",
+    "texto": "A regular pace during the whole shift beats rushing and stopping. You make fewer mistakes and finish less tired."
+  },
+  "c8": {
+    "titulo": "Take care of your back",
+    "texto": "Bend your knees, not your back, and bring the box close to your body before lifting. Adjust the table height if you can."
+  },
+  "c9": {
+    "titulo": "Ask for help in time",
+    "texto": "When in doubt, ask your nearest supervisor: they are trained to help you. Asking costs one minute; a wrong shipment costs far more."
+  }
+}

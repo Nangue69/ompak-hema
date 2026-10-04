@@ -1,0 +1,12 @@
+[
+  { "id": "pu", "termino": "PU" },
+  { "id": "tote", "termino": "Tote" },
+  { "id": "tote_id", "termino": "Tote-ID" },
+  { "id": "pu_carton", "termino": "PU/Carton" },
+  { "id": "qty_repack", "termino": "Qty to repack" },
+  { "id": "damaged", "termino": "Damaged Qty" },
+  { "id": "manco", "termino": "Manco" },
+  { "id": "pallet_id", "termino": "Pallet-ID" },
+  { "id": "tara", "termino": "Taraweighing" },
+  { "id": "worklist", "termino": "Worklist" }
+]

@@ -1,0 +1,87 @@
+{
+  "idioma": "Nederlands",
+  "app": {
+    "nombre": "Ompak HEMA",
+    "bienvenida": "Welkom bij de afdeling Ompak",
+    "subtitulo": "Jouw basishandleiding",
+    "pie": "Opleiding Ompak · Intern gebruik HEMA",
+    "autor": "Gemaakt door Angel Gonzalez © 2026"
+  },
+  "nav": {
+    "atras": "Terug",
+    "inicio": "Start",
+    "salir": "Uitloggen",
+    "tema": "Thema wisselen",
+    "idioma": "Taal"
+  },
+  "login": {
+    "titulo": "Inloggen",
+    "intro": "Vul je Key-user en wachtwoord in.",
+    "usuario": "Key-user",
+    "password": "Wachtwoord",
+    "entrar": "Inloggen",
+    "entrando": "Controleren...",
+    "error_credenciales": "Key-user of wachtwoord onjuist.",
+    "error_caducado": "Deze Key-user is verlopen. Vraag je leidinggevende om een nieuwe.",
+    "error_vacio": "Vul beide velden in.",
+    "aviso_validez": "Elke Key-user is 5 dagen geldig vanaf het eerste gebruik.",
+    "dias_restantes_uno": "Je hebt nog 1 dag toegang.",
+    "dias_restantes_varios": "Je hebt nog {n} dagen toegang.",
+    "error_inesperado": "Er is een onverwachte fout opgetreden. Waarschuw je leidinggevende."
+  },
+  "sesion": {
+    "caducada_titulo": "Toegang verlopen",
+    "caducada_texto": "Je Key-user is de 5 dagen geldigheid voorbij. Vraag je leidinggevende om een nieuwe.",
+    "volver": "Terug naar inloggen",
+    "salir_confirmar": "Weet je zeker dat je wilt uitloggen?"
+  },
+  "menu": {
+    "comandos_titulo": "Basiscommando's",
+    "comandos_desc": "F1 tot F12: wat elke toets doet",
+    "reglas_titulo": "Regels",
+    "reglas_desc": "Huisregels en Ompak-regels",
+    "consejos_titulo": "Handige tips",
+    "consejos_desc": "Tips en fouten die je moet vermijden",
+    "standard_titulo": "Productienorm",
+    "standard_desc": "Picks en dozen per uur"
+  },
+  "comandos": {
+    "titulo": "Basiscommando's",
+    "intro": "Tik op een toets in de lijst om te zien wat die doet en wat er op het scherm verschijnt.",
+    "que_hace": "Waarvoor dient het",
+    "en_pantalla": "Wat je op het scherm ziet",
+    "pantalla_real": "Zo ziet het echte scherm van het systeem op de werkplek eruit.",
+    "glosario": "Woorden die je op het scherm ziet"
+  },
+  "reglas": {
+    "titulo": "Regels",
+    "intro": "Volg ze altijd, ook als het druk is.",
+    "casa": "Huisregels",
+    "ompak": "Ompak"
+  },
+  "consejos": {
+    "titulo": "Handige tips",
+    "intro": "Kleine gewoontes die de meeste fouten voorkomen.",
+    "errores_titulo": "Veelgemaakte fouten",
+    "errores_intro": "Echte foto's van de afdeling. Kijk goed voordat je de doos wegstuurt."
+  },
+  "standard": {
+    "titulo": "Productienorm",
+    "intro": "Dit wordt er per gewerkt uur van je verwacht op de werkplek.",
+    "picks_hora": "picks / uur",
+    "cajas_hora": "dozen / uur",
+    "calculadora_titulo": "Hoe doe ik het?",
+    "calculadora_intro": "Vul in wat je gedaan hebt en bekijk je tempo.",
+    "picks_hechos": "Picks gedaan",
+    "horas": "Gewerkte uren",
+    "del_objetivo": "van de norm",
+    "tu_ritmo": "Jouw tempo: {n} picks/uur",
+    "resultado_bien": "Goed bezig, je zit op de norm.",
+    "resultado_cerca": "Bijna, ga zo door.",
+    "resultado_bajo": "Nog onder de norm. Bekijk de tips.",
+    "rellena": "Vul picks en uren in om je tempo te zien."
+  },
+  "comun": {
+    "revisar": "Voorlopige tekst, moet nog nagekeken worden."
+  }
+}

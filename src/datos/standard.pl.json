@@ -1,0 +1,17 @@
+{
+  "aprendiz": {
+    "nombre": "W szkoleniu",
+    "periodo": "Tydzień 1",
+    "texto": "Teraz liczy się dokładność, nie szybkość. Pytaj o wszystko, czego nie rozumiesz."
+  },
+  "autonomo": {
+    "nombre": "Samodzielny",
+    "periodo": "Tydzień 2",
+    "texto": "Pracujesz już sam. Tempo rośnie, bo mniej się wahasz, a nie dlatego, że biegasz."
+  },
+  "pleno": {
+    "nombre": "Norma firmy",
+    "periodo": "Tydzień 3",
+    "texto": "To tempo oczekiwane od pracownika, który zna stanowisko, przy zachowaniu jakości."
+  }
+}

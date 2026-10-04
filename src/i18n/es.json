@@ -1,0 +1,87 @@
+{
+  "idioma": "Español",
+  "app": {
+    "nombre": "Ompak HEMA",
+    "bienvenida": "Bienvenidos al departamento de Ompak",
+    "subtitulo": "Tu manual de instrucciones básicas",
+    "pie": "Opleiding Ompak · Uso interno HEMA",
+    "autor": "Hecho por Angel Gonzalez © 2026"
+  },
+  "nav": {
+    "atras": "Atrás",
+    "inicio": "Inicio",
+    "salir": "Salir",
+    "tema": "Cambiar tema",
+    "idioma": "Idioma"
+  },
+  "login": {
+    "titulo": "Acceso",
+    "intro": "Introduce tu Key-user y tu contraseña.",
+    "usuario": "Key-user",
+    "password": "Contraseña",
+    "entrar": "Entrar",
+    "entrando": "Comprobando...",
+    "error_credenciales": "Key-user o contraseña incorrectos.",
+    "error_caducado": "Este Key-user ha caducado. Pide uno nuevo a tu responsable.",
+    "error_vacio": "Rellena los dos campos.",
+    "aviso_validez": "Cada Key-user es válido 5 días desde el primer uso.",
+    "dias_restantes_uno": "Te queda 1 día de acceso.",
+    "dias_restantes_varios": "Te quedan {n} días de acceso.",
+    "error_inesperado": "Ha ocurrido un error inesperado. Avisa al responsable."
+  },
+  "sesion": {
+    "caducada_titulo": "Acceso caducado",
+    "caducada_texto": "Tu Key-user ha superado los 5 días de validez. Pide uno nuevo a tu responsable.",
+    "volver": "Volver al acceso",
+    "salir_confirmar": "¿Seguro que quieres salir?"
+  },
+  "menu": {
+    "comandos_titulo": "Comandos básicos",
+    "comandos_desc": "De F1 a F12: qué hace cada tecla",
+    "reglas_titulo": "Reglas",
+    "reglas_desc": "Reglas de la casa y de Ompak",
+    "consejos_titulo": "Consejos útiles",
+    "consejos_desc": "Trucos y errores que debes evitar",
+    "standard_titulo": "Standard de producción",
+    "standard_desc": "Picks y cajas por hora"
+  },
+  "comandos": {
+    "titulo": "Comandos básicos",
+    "intro": "Pulsa una tecla de la lista para ver qué hace y qué aparece en la pantalla del PC.",
+    "que_hace": "Para qué sirve",
+    "en_pantalla": "Lo que verás en pantalla",
+    "pantalla_real": "Así se ve la pantalla real del sistema en el puesto de trabajo.",
+    "glosario": "Palabras que verás en pantalla"
+  },
+  "reglas": {
+    "titulo": "Reglas",
+    "intro": "Cúmplelas siempre, también cuando haya prisa.",
+    "casa": "De la casa",
+    "ompak": "De Ompak"
+  },
+  "consejos": {
+    "titulo": "Consejos útiles",
+    "intro": "Pequeños hábitos que evitan la mayoría de los errores.",
+    "errores_titulo": "Errores comunes a evitar",
+    "errores_intro": "Fotos reales del departamento. Mira bien antes de enviar la caja."
+  },
+  "standard": {
+    "titulo": "Standard de producción",
+    "intro": "Esto es lo que se espera de ti en el puesto, por hora de trabajo.",
+    "picks_hora": "picks / hora",
+    "cajas_hora": "cajas / hora",
+    "calculadora_titulo": "¿Cómo voy?",
+    "calculadora_intro": "Escribe lo que llevas hecho y mira tu ritmo.",
+    "picks_hechos": "Picks hechos",
+    "horas": "Horas trabajadas",
+    "del_objetivo": "del objetivo",
+    "tu_ritmo": "Tu ritmo: {n} picks/hora",
+    "resultado_bien": "Muy bien, estás en el standard.",
+    "resultado_cerca": "Casi lo tienes, sigue así.",
+    "resultado_bajo": "Aún por debajo. Revisa los consejos.",
+    "rellena": "Escribe los picks y las horas para ver tu ritmo."
+  },
+  "comun": {
+    "revisar": "Texto provisional pendiente de revisión."
+  }
+}

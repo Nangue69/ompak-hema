@@ -1,0 +1,34 @@
+{
+  "n1": {
+    "titulo": "Elige bien la caja",
+    "texto": "Mira que traiga su etiqueta por ambos lados y que esté limpia. Quita los stickers del recuadro superior y cualquier pegatina, además de restos de papeles y cartones. Si la caja está muy sucia o viene mojada, retírala; cuando tengas al menos cinco, mándalas con un palet vacío."
+  },
+  "n2": {
+    "titulo": "Observa bien las reglas de llenado",
+    "texto": "No se permite enviar cajas de más de 25 kilos: si se da el caso, llama a un supervisor. Llena la caja al 75%, hasta la línea interna de llenado límite. Si pasas esa línea, puedes provocar un problema técnico en cualquier punto de la línea."
+  },
+  "n3": {
+    "titulo": "Reempaquetado de botellas sueltas",
+    "texto": "Cuando recibas un palet con botellas sueltas, sin cajas, se envían siempre de pie en las cajas azules. Cuida que no vayan tumbadas ni boca abajo: si alguna va mal cerrada, puede derramar todo el líquido y causar un problema técnico."
+  },
+  "c5": {
+    "titulo": "No sobrecargues",
+    "texto": "Si tienes que apretar para cerrar, la caja se abrirá en la cinta. Usa dos cajas antes que forzar una."
+  },
+  "c6": {
+    "titulo": "Una cosa cada vez",
+    "texto": "Termina un pedido antes de empezar el siguiente. Dos pedidos abiertos en la mesa acaban mezclados."
+  },
+  "c7": {
+    "titulo": "Ritmo constante",
+    "texto": "Es mejor un ritmo regular todo el turno que correr y pararse. Así cometes menos fallos y acabas menos cansado."
+  },
+  "c8": {
+    "titulo": "Cuida tu espalda",
+    "texto": "Dobla las rodillas, no la espalda, y acerca la caja al cuerpo antes de levantarla. Ajusta la altura de la mesa si se puede."
+  },
+  "c9": {
+    "titulo": "Pide ayuda a tiempo",
+    "texto": "Ante la duda, pregunta a tu supervisor más cercano: él está capacitado para ayudarte. Preguntar cuesta un minuto; un error de envío cuesta mucho más."
+  }
+}

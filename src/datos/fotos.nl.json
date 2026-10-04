@@ -1,0 +1,22 @@
+{
+  "f1": {
+    "titulo": "Product rechtop geplaatst",
+    "texto": "De tafelzeilen staan rechtop en allemaal dezelfde kant op: zo tel je ze in een oogopslag en vouwen ze niet. Let erop dat er niets over de rand van de tote uitsteekt."
+  },
+  "f2": {
+    "titulo": "Tote netjes in rijen",
+    "texto": "Zelfde artikel, gelijke rijen en geen gaten. Zo klopt de telling met de weegschaal en schuift de tote niet op de band."
+  },
+  "f3": {
+    "titulo": "Product in zak, los erin",
+    "texto": "Ligt het product los in een zak in de tote, dan raakt het op de band door elkaar en kan de telling misgaan. Groepeer het en druk het plat."
+  },
+  "f4": {
+    "titulo": "Meet voor je de doos kiest",
+    "texto": "Hoogte, lengte en breedte van het product, min de marge, geven je de juiste doos. Twijfel je over de maat, meet dan: dat is sneller dan de order overdoen."
+  },
+  "f5": {
+    "titulo": "Een opgeruimde werkplek",
+    "texto": "Scanner binnen handbereik, noodstop vrij en alleen de lopende tote op tafel. Niets tegen de band of op de weegschaal."
+  }
+}

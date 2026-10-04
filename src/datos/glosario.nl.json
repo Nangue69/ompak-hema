@@ -1,0 +1,12 @@
+{
+  "pu": "Packing Unit: een verkoopeenheid, dat wat de klant koopt. Vraagt het scherm 14 PU, dan zijn dat 14 losse producten.",
+  "tote": "De blauwe plastic bak waarin je het omgepakte product legt.",
+  "tote_id": "Het nummer van de tote. Je scant het van het etiket op de bak en het moet overeenkomen met het scherm.",
+  "pu_carton": "Hoeveel stuks er in een doos met onbewerkte artikelen zitten.",
+  "qty_repack": "De stuks van dit artikel die nog omgepakt moeten worden.",
+  "damaged": "De stuks die je met F1 als beschadigd hebt gemeld.",
+  "manco": "Ontbrekende voorraad: het pallet bevat minder stuks dan het systeem vraagt. De teamleider meldt het met F7.",
+  "pallet_id": "Het nummer van het pallet waaraan je werkt. Controleer of het klopt met het etiket op het echte pallet.",
+  "tara": "Weging van de lege tote. Het systeem heeft dit nodig om later te berekenen hoeveel stuks erin zitten.",
+  "worklist": "De lijst met stappen links op het scherm. De stap waarin je zit, is groen gemarkeerd."
+}

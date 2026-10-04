@@ -1,0 +1,22 @@
+{
+  "f1": {
+    "titulo": "Product placed upright",
+    "texto": "The tablecloths stand upright and all in the same direction: they can be counted at a glance and do not bend. Check that none sticks out over the edge of the tote."
+  },
+  "f2": {
+    "titulo": "Tote arranged in rows",
+    "texto": "Same article, equal rows and no gaps. That way the counting with the scale adds up and the tote does not shift on the conveyor."
+  },
+  "f3": {
+    "titulo": "Bagged product left loose",
+    "texto": "When the product comes in a bag and lies loose in the tote, it gets disordered on the conveyor and the count can fail. Group it and flatten it."
+  },
+  "f4": {
+    "titulo": "Measure before choosing the box",
+    "texto": "Height, length and width of the product, minus the margin, give you the right box. If you are unsure about the size, measure: it is faster than redoing the order."
+  },
+  "f5": {
+    "titulo": "A clear workstation",
+    "texto": "Scanner within reach, emergency stop free and only the current tote on the table. Nothing leaning on the conveyor or on the scale."
+  }
+}

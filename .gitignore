@@ -1,0 +1,9 @@
+node_modules
+dist
+dev-dist
+.DS_Store
+*.local
+
+# Fotos originales del movil (28 MB). Las que publica la app son las
+# optimizadas de public/img/fotos. Para regenerarlas: npm run imagenes
+/img/

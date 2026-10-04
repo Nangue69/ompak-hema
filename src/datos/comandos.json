@@ -1,0 +1,59 @@
+[
+  {
+    "tecla": "F1",
+    "fuente": "documento",
+    "pantalla": "LBS - Repacking\nRepack Article : Hoeslaken SC 90x200 wit\nDamaged Qty    : 0 PU\nNew value      : _\n>> F1  Declare damaged"
+  },
+  {
+    "tecla": "F2",
+    "fuente": "usuario",
+    "pantalla": "LBS - Repacking\nRequest pallet\nPallet-ID : 6904194560   Type : PULL\nReturn pallet ? (J/N)\n>> F2  Return pallet"
+  },
+  {
+    "tecla": "F3",
+    "fuente": "usuario"
+  },
+  {
+    "tecla": "F4",
+    "fuente": "usuario",
+    "pantalla": "LBS - Repacking\nCheck PU weight\nExpected : 1,240 kg\nMeasured : 0,980 kg\n>> F4  Re-weigh"
+  },
+  {
+    "tecla": "F5",
+    "fuente": "pantalla",
+    "pantalla": "LBS - Repacking\nScan ToteID\nTote-ID  : 1001408949\nQuantity : 14 (PU)\n>> F5  Confirm tote-ID / Do counting by scale"
+  },
+  {
+    "tecla": "F6",
+    "fuente": "pantalla",
+    "pantalla": "LBS - Repacking\nFinish article/Pal\nQty to repack : 138 PU\nTotes remaining : 10\n>> F6  Finish article"
+  },
+  {
+    "tecla": "F7",
+    "fuente": "pantalla",
+    "pantalla": "LBS - Repacking\nPack Tote >scale<\nQty to repack : 138 PU\nFound : _\n>> F7  Manco"
+  },
+  {
+    "tecla": "F8",
+    "fuente": "usuario"
+  },
+  {
+    "tecla": "F9",
+    "fuente": "usuario",
+    "pantalla": "LBS - Repacking\nAdd rest to system\nArticle   : 4000094375\nRest found : _\n>> F9  Add rest"
+  },
+  {
+    "tecla": "F10",
+    "fuente": "usuario"
+  },
+  {
+    "tecla": "F11",
+    "fuente": "pantalla",
+    "pantalla": "LBS - Repacking\nWorklist\nCurrent step : Confirm ready tote\nPrevious step : Pack Tote >scale<\n>> F11  Go back"
+  },
+  {
+    "tecla": "F12",
+    "fuente": "pantalla",
+    "pantalla": "LBS - Repacking\nCancel current step ?\nNothing is saved\n>> F12  Cancel"
+  }
+]

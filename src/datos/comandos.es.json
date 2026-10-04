@@ -1,0 +1,50 @@
+{
+  "F1": {
+    "titulo": "Declarar producto dañado",
+    "descripcion": "Sirve para declarar en el sistema un artículo que llega roto, sucio o manchado. Escribe cuántas unidades (PU) están dañadas y confirma. El contador \"Damaged Qty\" de la pantalla sube y ese producto no se envía al cliente: déjalo en el carro de dañados."
+  },
+  "F2": {
+    "titulo": "Devolver un palet equivocado",
+    "descripcion": "Devuelve un palet que no corresponde y queda esperando a que el sistema mande automáticamente un palet vacío. Se usa muy poco: esa espera suele ser larga, así que para agilizar la devolución y volver al trabajo se opta normalmente por F6."
+  },
+  "F3": {
+    "titulo": "Función de supervisión",
+    "descripcion": "No es una tecla de operario. La usa el supervisor. Si crees que hace falta, avísale en vez de pulsarla tú."
+  },
+  "F4": {
+    "titulo": "Volver a pesar",
+    "descripcion": "Repite el pesaje cuando el paso \"Check PU weight\" no da el peso esperado. Antes de repetir, comprueba que no se ha quedado nada apoyado en la balanza ni fuera del tote. También se utiliza para asumir errores que ocurren dentro del sistema."
+  },
+  "F5": {
+    "titulo": "Confirmar el tote",
+    "descripcion": "Es la tecla que más vas a usar. Confirma el Tote-ID que acabas de escanear y, en el paso de empaque, hace el conteo con la balanza (\"Do counting by scale\"). Mira siempre el número del tote en pantalla antes de confirmar. Además sirve para confirmar cualquier operación del sistema: se usa tanto que hay un botón externo en el puesto conectado a F5, para no tener que ir al teclado."
+  },
+  "F6": {
+    "titulo": "Terminar el artículo",
+    "descripcion": "Cierra el artículo o el palé en curso (\"Finish article/Pal\"). Úsalo solo cuando ya no quedan unidades por reempacar: comprueba antes el contador \"Qty to repack\"."
+  },
+  "F7": {
+    "titulo": "Función de supervisión",
+    "descripcion": "En pantalla aparece como \"Manco\" (declarar que faltan unidades), pero no es una tecla de operario: la ejecuta el supervisor. Si falta mercancía en el palet, avísale."
+  },
+  "F8": {
+    "titulo": "Función de supervisión",
+    "descripcion": "No es una tecla de operario. La usa el supervisor. Si crees que hace falta, avísale en vez de pulsarla tú."
+  },
+  "F9": {
+    "titulo": "Sumar los restos del palet",
+    "descripcion": "Añade artículos al sistema cuando, al terminar, sobran restos del palet. Cuenta bien lo que queda antes de introducirlo: ese número se suma al stock."
+  },
+  "F10": {
+    "titulo": "No se utiliza",
+    "descripcion": "Esta tecla no se usa en el puesto. Si la pulsas sin querer, no tiene ningún efecto en el sistema."
+  },
+  "F11": {
+    "titulo": "Volver atrás",
+    "descripcion": "Navega hacia atrás por las ventanas del sistema, sin perder lo que ya has hecho. Es la salida segura cuando te has adelantado un paso."
+  },
+  "F12": {
+    "titulo": "Cancelar",
+    "descripcion": "Cancela cualquier operación que estés ejecutando en el sistema. Lo que estabas introduciendo no se guarda. Si dudas entre F11 y F12, usa F11: cancelar te obliga a repetir el paso entero."
+  }
+}

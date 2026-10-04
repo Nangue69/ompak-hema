@@ -1,0 +1,50 @@
+{
+  "F1": {
+    "titulo": "Schade melden",
+    "descripcion": "Hiermee meld je in het systeem een artikel dat kapot, vuil of gevlekt binnenkomt. Typ hoeveel stuks (PU) beschadigd zijn en bevestig. De teller \"Damaged Qty\" op het scherm loopt op en dat product gaat niet naar de klant: zet het op de schadekar."
+  },
+  "F2": {
+    "titulo": "Verkeerd pallet terugsturen",
+    "descripcion": "Stuurt een pallet terug dat hier niet hoort en wacht tot het systeem automatisch een leeg pallet stuurt. Wordt weinig gebruikt: dat wachten duurt meestal lang, dus om de retour te versnellen en weer aan het werk te gaan kiest men normaal voor F6."
+  },
+  "F3": {
+    "titulo": "Functie voor de teamleider",
+    "descripcion": "Dit is geen toets voor de medewerker. De teamleider gebruikt hem. Denk je dat het nodig is, roep hem dan in plaats van zelf te drukken."
+  },
+  "F4": {
+    "titulo": "Opnieuw wegen",
+    "descripcion": "Herhaalt de weging als de stap \"Check PU weight\" niet het verwachte gewicht geeft. Controleer eerst of er niets tegen de weegschaal leunt of buiten de tote is blijven liggen. Wordt ook gebruikt om fouten binnen het systeem over te nemen."
+  },
+  "F5": {
+    "titulo": "Tote bevestigen",
+    "descripcion": "Dit is de toets die je het meest gebruikt. Hij bevestigt de Tote-ID die je net gescand hebt en telt in de inpakstap met de weegschaal (\"Do counting by scale\"). Kijk altijd naar het totenummer op het scherm voordat je bevestigt. Hij bevestigt ook elke andere handeling in het systeem: hij wordt zo vaak gebruikt dat er op de werkplek een externe knop op F5 is aangesloten, zodat je niet naar het toetsenbord hoeft."
+  },
+  "F6": {
+    "titulo": "Artikel afsluiten",
+    "descripcion": "Sluit het lopende artikel of pallet af (\"Finish article/Pal\"). Gebruik dit alleen als er niets meer om te pakken is: controleer eerst de teller \"Qty to repack\"."
+  },
+  "F7": {
+    "titulo": "Functie voor de teamleider",
+    "descripcion": "Op het scherm staat \"Manco\" (melden dat er stuks ontbreken), maar het is geen toets voor de medewerker: de teamleider voert dit uit. Ontbreekt er voorraad op het pallet, roep hem dan."
+  },
+  "F8": {
+    "titulo": "Functie voor de teamleider",
+    "descripcion": "Dit is geen toets voor de medewerker. De teamleider gebruikt hem. Denk je dat het nodig is, roep hem dan in plaats van zelf te drukken."
+  },
+  "F9": {
+    "titulo": "Restant van het pallet bijtellen",
+    "descripcion": "Voegt artikelen toe aan het systeem als er aan het eind restant van het pallet overblijft. Tel goed wat er over is voordat je het invoert: dat aantal gaat bij de voorraad."
+  },
+  "F10": {
+    "titulo": "Wordt niet gebruikt",
+    "descripcion": "Deze toets wordt op de werkplek niet gebruikt. Druk je er per ongeluk op, dan heeft dat geen enkel effect op het systeem."
+  },
+  "F11": {
+    "titulo": "Stap terug",
+    "descripcion": "Navigeert terug door de vensters van het systeem zonder te verliezen wat je al gedaan hebt. Dit is de veilige uitweg als je een stap te ver bent."
+  },
+  "F12": {
+    "titulo": "Annuleren",
+    "descripcion": "Annuleert elke handeling die je in het systeem uitvoert. Wat je aan het invoeren was, wordt niet bewaard. Twijfel je tussen F11 en F12, kies dan F11: annuleren betekent de hele stap opnieuw doen."
+  }
+}

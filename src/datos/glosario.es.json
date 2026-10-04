@@ -1,0 +1,12 @@
+{
+  "pu": "Packing Unit: una unidad de venta, lo que compra el cliente. Si la pantalla pide 14 PU, son 14 productos sueltos.",
+  "tote": "La caja o bak azul de plástico en la que colocas el producto reempacado.",
+  "tote_id": "El número del tote. Lo escaneas de la etiqueta del bak y tiene que coincidir con el de la pantalla.",
+  "pu_carton": "Cuántas unidades contiene una caja de artículos sin procesar.",
+  "qty_repack": "Las unidades que todavía quedan por reempacar de este artículo.",
+  "damaged": "Las unidades que has declarado como dañadas con F1.",
+  "manco": "Falta de mercancía: el palé trae menos unidades de las que pide el sistema. Lo declara el supervisor con F7.",
+  "pallet_id": "El número del palé que estás trabajando. Comprueba que coincide con la etiqueta del palé real.",
+  "tara": "Pesaje del tote vacío. El sistema lo necesita para calcular después cuántas unidades hay dentro.",
+  "worklist": "La lista de pasos de la izquierda de la pantalla. El paso en el que estás aparece resaltado en verde."
+}

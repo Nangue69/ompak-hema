@@ -1,0 +1,86 @@
+{
+  "casa": [
+    {
+      "tipo": "obligatorio",
+      "titulo": "Llega puntual y ficha",
+      "texto": "Estar en el puesto a la hora de inicio, no entrando por la puerta. Ficha siempre al entrar y al salir."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Calzado de seguridad",
+      "texto": "Obligatorio en toda la nave. Sin calzado de seguridad no puedes entrar en la zona de trabajo."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Camina por los pasillos marcados",
+      "texto": "Respeta las líneas peatonales."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "Nada de móvil en el puesto",
+      "texto": "El teléfono se queda en la taquilla o en el bolsillo. Úsalo solo en la pausa y en la cantina."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Guarda tus cosas en el locker",
+      "texto": "No está permitido tener mochilas, bolsas grandes ni chaquetones en el área de trabajo. Usa los armarios destinados a este fin: así mantienes tu espacio de trabajo despejado."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "No comer ni beber en la línea",
+      "texto": "Solo agua en botella cerrada. La comida se toma en la cantina."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "Prohibido correr",
+      "texto": "Ni con prisa ni al final del turno. La mayoría de los accidentes pasan corriendo."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Avisa si te ausentas",
+      "texto": "Si estás enfermo o vas a llegar tarde, avisa antes del inicio del turno por el canal que te hayan indicado."
+    }
+  ],
+  "ompak": [
+    {
+      "tipo": "obligatorio",
+      "titulo": "Escanea siempre",
+      "texto": "Un artículo que no se escanea no existe para el sistema. Nunca metas producto en la caja sin escanearlo."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Una caja, un pedido",
+      "texto": "No mezcles artículos de dos pedidos distintos en la misma caja, aunque vayan al mismo sitio."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Comprueba antes de cerrar",
+      "texto": "Mira la pantalla y la caja: mismo artículo, misma cantidad. Cerrar es el último paso, no el primero."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Declara el daño con F1",
+      "texto": "Producto roto, sucio o abierto no se envía. Decláralo con F1 y ponlo en el carro de dañados."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "No envíes cajas con etiquetas ilegibles o sin etiquetas",
+      "texto": "Si la etiqueta viene marcada con rotulador, rota o borrosa por uno de los lados o por ambos, retira la caja y ponla en el grupo de cajas usadas en la ventanilla de la oficina."
+    },
+    {
+      "tipo": "prohibido",
+      "titulo": "No dejes tu sesión abierta",
+      "texto": "Al dejar el puesto, cierra tu sesión. La producción de quien venga detrás se sumaría a tu nombre."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Mantén la mesa despejada",
+      "texto": "Solo el pedido en curso sobre la mesa. El cartón a la línea de cartones y el plástico, directo al contenedor correspondiente."
+    },
+    {
+      "tipo": "obligatorio",
+      "titulo": "Cambia la hojilla de la cuchilla en su lugar indicado",
+      "texto": "La hojilla se cambia estrictamente en la ventanilla de la oficina y la usada se deposita en el contenedor habilitado para ello. No está permitido cambiarla en la estación de trabajo."
+    }
+  ]
+}

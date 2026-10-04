@@ -1,0 +1,34 @@
+{
+  "n1": {
+    "titulo": "Dobierz właściwy karton",
+    "texto": "Sprawdź, czy ma etykietę po obu stronach i czy jest czysty. Usuń naklejki z górnego pola oraz wszelkie inne naklejki, a także resztki papieru i kartonu. Jeśli karton jest bardzo brudny albo mokry, odłóż go; gdy uzbierasz co najmniej pięć, odeślij je z pustą paletą."
+  },
+  "n2": {
+    "titulo": "Przestrzegaj zasad napełniania",
+    "texto": "Nie wolno wysyłać kartonów cięższych niż 25 kilogramów: jeśli tak wyjdzie, zawołaj przełożonego. Napełniaj karton do 75%, do wewnętrznej linii limitu. Przekroczenie tej linii może spowodować awarię w dowolnym miejscu linii."
+  },
+  "n3": {
+    "titulo": "Przepakowywanie luźnych butelek",
+    "texto": "Gdy dostaniesz paletę z luźnymi butelkami, bez kartonów, zawsze wysyła się je stojąco w niebieskich pojemnikach. Dopilnuj, aby żadna nie leżała ani nie stała do góry dnem: źle zamknięta może wylać całą zawartość i spowodować awarię."
+  },
+  "c5": {
+    "titulo": "Nie przepełniaj",
+    "texto": "Jeśli musisz docisnąć, żeby zamknąć, karton otworzy się na taśmie. Lepiej użyć dwóch kartonów niż wciskać na siłę."
+  },
+  "c6": {
+    "titulo": "Jedna rzecz naraz",
+    "texto": "Skończ jedno zamówienie, zanim zaczniesz następne. Dwa otwarte zamówienia na stole kończą się pomieszaniem."
+  },
+  "c7": {
+    "titulo": "Równe tempo",
+    "texto": "Stałe tempo przez całą zmianę jest lepsze niż bieganie i przestoje. Robisz mniej błędów i mniej się męczysz."
+  },
+  "c8": {
+    "titulo": "Dbaj o kręgosłup",
+    "texto": "Uginaj kolana, nie plecy, i przysuń karton do ciała, zanim go podniesiesz. Jeśli możesz, ustaw wysokość stołu."
+  },
+  "c9": {
+    "titulo": "Proś o pomoc na czas",
+    "texto": "W razie wątpliwości zapytaj najbliższego przełożonego: jest przeszkolony, aby ci pomóc. Pytanie kosztuje minutę; błędna wysyłka kosztuje dużo więcej."
+  }
+}
