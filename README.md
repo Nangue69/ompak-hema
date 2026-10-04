@@ -106,11 +106,46 @@ img/            fotos originales (no se publican)
 public/         logo, fotos optimizadas e iconos de la app
 ```
 
-## Publicar
+## Publicada en internet
 
-`npm run build` deja todo en `dist/`. Como las rutas van con `#` y las rutas de archivos son
-relativas, `dist/` se puede subir tal cual a cualquier hosting estático o a una carpeta de la
-intranet, sin configurar nada en el servidor.
+**https://nangue69.github.io/ompak-hema/**
 
-En el móvil: abre la dirección en Chrome o Safari y elige "Añadir a la pantalla de inicio".
-A partir de ahí la app abre a pantalla completa y funciona sin conexión.
+Esa es la direccion que se da a los operarios. Funciona con `https://`, asi que el movil la
+reconoce como aplicacion instalable.
+
+### Instalar en el telefono
+
+- **Android (Chrome):** abre la direccion, menu de los tres puntos, **Instalar aplicacion**.
+- **iPhone (Safari):** abre la direccion, boton de compartir, **Anadir a inicio**.
+
+Queda con su icono entre las apps, abre a pantalla completa y sigue funcionando sin cobertura.
+
+### Como se actualiza
+
+Cada vez que se suban cambios a la rama `main`, GitHub compila el proyecto, ejecuta las
+pruebas y publica la version nueva. Si alguna prueba falla, no publica nada: la version
+anterior sigue en pie.
+
+```bash
+git add -A
+git commit -m "lo que has cambiado"
+git push
+```
+
+A los dos minutos esta en linea. En el movil puede tardar un poco mas en verse: la app guarda
+una copia para funcionar sin conexion y se actualiza sola la siguiente vez que se abre.
+
+El flujo esta en `.github/workflows/deploy.yml`.
+
+### Publicar en otro sitio
+
+`npm run build` deja todo en `dist/`. Como las rutas van con `#` y los archivos se enlazan de
+forma relativa, esa carpeta se puede subir tal cual a cualquier hosting estatico o a una
+carpeta de la intranet, sin configurar nada en el servidor.
+
+### Que es publico
+
+El repositorio es publico, condicion necesaria para que GitHub Pages funcione con una cuenta
+gratuita. Ademas, la comprobacion del Key-user ocurre en el telefono, no en un servidor: quien
+tenga la direccion puede llegar al contenido sin saber la contrasena. Es material de formacion,
+no datos personales ni secretos, pero conviene tenerlo presente antes de anadir nada sensible.

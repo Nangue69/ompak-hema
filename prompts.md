@@ -84,3 +84,26 @@ es Cancelar. Ya no nombra ninguna tecla.
 del locker se mueve a *Reglas de la casa* y "Pide ayuda a tiempo" deja de ser regla y pasa a
 *Consejos útiles*. La observación sobre F7 (en pantalla "Manco", pero la ejecuta el supervisor)
 se queda como estaba.
+
+---
+
+## 4 · 2026-10-05 · Publicada en internet
+
+**Prompt:** "Vamos a subirlo a internet, prefiero GitHub Pages porque ya tengo cuenta."
+
+**Motivo:** en el móvil, Chrome solo ofrece "Instalar aplicación" cuando la página viene por
+`https://`. Desde la dirección de red local solo permitía crear un acceso directo.
+
+**Entregado:**
+
+- Repositorio git con el proyecto y flujo de publicación automática
+  (`.github/workflows/deploy.yml`): instala, pasa las 21 pruebas, compila y publica. Si una
+  prueba falla, no publica nada.
+- Las fotos originales de `img/` quedan fuera del repositorio (28 MB que no hacen falta para
+  el sitio); sí se publican las optimizadas de `public/img/fotos`.
+- **En línea:** https://nangue69.github.io/ompak-hema/
+
+**Dos tropiezos por el camino:** `.gitignore` con `img/` también excluía `public/img/`
+(corregido a `/img/`), y los dos primeros despliegues fallaron porque GitHub no deja que un
+flujo automático active Pages la primera vez: tuvo que hacerlo el dueño de la cuenta desde
+Settings → Pages → Source: GitHub Actions.
