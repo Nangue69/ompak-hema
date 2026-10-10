@@ -43,7 +43,9 @@
     "consejos_titulo": "Handige tips",
     "consejos_desc": "Tips en fouten die je moet vermijden",
     "standard_titulo": "Productienorm",
-    "standard_desc": "Picks en dozen per uur"
+    "standard_desc": "Picks en dozen per uur",
+    "pasos_titulo": "Stappen",
+    "pasos_desc": "Het werk stap voor stap, vanaf het pallet"
   },
   "comandos": {
     "titulo": "Basiscommando's",
@@ -83,5 +85,9 @@
   },
   "comun": {
     "revisar": "Voorlopige tekst, moet nog nagekeken worden."
+  },
+  "pasos": {
+    "titulo": "Stappen",
+    "intro": "De volledige ompakcyclus, op volgorde. Volg de stappen precies zoals ze komen."
   }
 }

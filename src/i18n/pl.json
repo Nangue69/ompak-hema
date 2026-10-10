@@ -43,7 +43,9 @@
     "consejos_titulo": "Przydatne wskazówki",
     "consejos_desc": "Porady i błędy, których należy unikać",
     "standard_titulo": "Norma produkcji",
-    "standard_desc": "Picki i kartony na godzinę"
+    "standard_desc": "Picki i kartony na godzinę",
+    "pasos_titulo": "Kroki do wykonania",
+    "pasos_desc": "Praca krok po kroku, od palety"
   },
   "comandos": {
     "titulo": "Podstawowe komendy",
@@ -83,5 +85,9 @@
   },
   "comun": {
     "revisar": "Tekst roboczy, do weryfikacji."
+  },
+  "pasos": {
+    "titulo": "Kroki do wykonania",
+    "intro": "Pełny cykl przepakowywania, po kolei. Wykonuj kroki dokładnie w tej kolejności."
   }
 }

@@ -54,6 +54,7 @@ corregir un texto.
 
 | Archivo | Qué contiene |
 |---|---|
+| `pasos.json` + `pasos.es.json` (+ …) | Los pasos a seguir, sus fotos y las teclas de cada paso |
 | `comandos.json` | Lo que aparece en la pantalla del PC para cada tecla F (igual en todos los idiomas) |
 | `comandos.es.json` (+ `en`, `nl`, `pl`) | Título y explicación de cada tecla |
 | `reglas.es.json` (+ …) | Reglas de la casa y de Ompak |
@@ -78,9 +79,14 @@ y `pl.json`.
 
 ### Cambiar las fotos
 
-Deja los JPG nuevos en `img/`, añade su nombre al mapa `NOMBRES` de
-`scripts/optimizar-imagenes.mjs` y ejecuta `npm run imagenes`. Las fotos se reducen a WebP de
-1280 px (de 28 MB a menos de 1 MB en total) y se guardan en `public/img/fotos/`.
+Hay dos carpetas de originales, ambas fuera del repositorio por su peso:
+
+- `img/` → se publican en `public/img/fotos/` (galería de Consejos).
+- `img/pasos/` → se publican en `public/img/pasos/` (página Pasos a seguir).
+
+Deja los JPG nuevos en la carpeta que toque, añade su nombre al mapa `nombres` correspondiente
+en `scripts/optimizar-imagenes.mjs` y ejecuta `npm run imagenes`. Las fotos se reducen a WebP
+de 1280 px (de 28 MB a poco más de 1 MB) y quedan listas para publicar.
 
 ## Qué falta por revisar
 

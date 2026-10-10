@@ -5,6 +5,7 @@ import { I18nProvider } from './i18n/I18nContext.jsx';
 import { TemaProvider } from './tema/TemaContext.jsx';
 import Login from './paginas/Login.jsx';
 import Home from './paginas/Home.jsx';
+import Pasos from './paginas/Pasos.jsx';
 import Comandos from './paginas/Comandos.jsx';
 import Reglas from './paginas/Reglas.jsx';
 import Consejos from './paginas/Consejos.jsx';
@@ -12,6 +13,7 @@ import Standard from './paginas/Standard.jsx';
 
 const PAGINAS = [
   { ruta: '/', elemento: <Home /> },
+  { ruta: '/pasos', elemento: <Pasos /> },
   { ruta: '/comandos', elemento: <Comandos /> },
   { ruta: '/reglas', elemento: <Reglas /> },
   { ruta: '/consejos', elemento: <Consejos /> },

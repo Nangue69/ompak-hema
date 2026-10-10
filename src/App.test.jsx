@@ -70,6 +70,16 @@ describe('secciones', () => {
     localStorage.setItem('hema_keys', JSON.stringify({ [USUARIO]: new Date().toISOString() }));
   });
 
+  it('muestra los ocho pasos a seguir con sus fotos', async () => {
+    window.location.hash = '#/pasos';
+    render(<App />);
+
+    expect(await screen.findByText('Coloca la caja en la balanza')).toBeTruthy();
+    expect(screen.getByText('Cierra el palet con F6')).toBeTruthy();
+    expect(screen.getAllByRole('listitem').length).toBe(8);
+    expect(screen.getAllByRole('img').length).toBeGreaterThan(0);
+  });
+
   it('abre comandos y despliega una tecla', async () => {
     window.location.hash = '#/comandos';
     render(<App />);

@@ -1,0 +1,34 @@
+{
+  "p1": {
+    "titulo": "Coloca la caja en la balanza",
+    "texto": "Una vez abierto el palet, toma una caja de la línea y colócala en la balanza."
+  },
+  "p2": {
+    "titulo": "Escanea el artículo",
+    "texto": "Se prioriza siempre el código de barras. Si no está visible, toma el número de artículo y escríbelo a mano en el recuadro de la pantalla; luego pulsa Enter. Si tampoco encuentras el número en el artículo, la última opción es tomarlo de la caja de mercancías."
+  },
+  "p3": {
+    "titulo": "Escanea el código de barras de la caja",
+    "texto": "Escanea el código que lleva la caja azul. Así el sistema sabe en qué tote estás trabajando."
+  },
+  "p4": {
+    "titulo": "Registra el artículo y pésalo",
+    "texto": "El sistema te pedirá registrar el artículo. Introduce el número de artículos que se te pide en la pantalla para ser pesado y confirma con F5."
+  },
+  "p5": {
+    "titulo": "Llena la caja y confirma",
+    "texto": "Una vez comprobado el peso por el sistema, llena la caja con el resto de artículos hasta completar el número exigido y pulsa F5. La caja sale hacia la cinta y el sistema te pide el siguiente tote."
+  },
+  "p6": {
+    "titulo": "Si el peso no cuadra, repite con F4",
+    "texto": "A veces, al registrar el artículo, no da el peso que el sistema espera. Primero comprueba que tu mano o algún objeto no esté falseando la medida. Si no hay nada, asume el error con F4. Aparecerá una ventana preguntando cuántos artículos hay en la caja y cuántas piezas contiene el artículo: si todo está bien, responde que sí a todo y confirma con F5."
+  },
+  "p7": {
+    "titulo": "Gestiona el resto del palet con F9",
+    "texto": "Si al terminar te queda un resto de artículos en el palet, lo gestionas con F9. Al pulsarlo verás cuántos artículos tienes disponibles para sumar al sistema: introduce solo la cantidad que necesitas para eliminar el palet y confirma con F5."
+  },
+  "p8": {
+    "titulo": "Cierra el palet con F6",
+    "texto": "Una vez terminado el palet aparece la ventana de cierre. Finaliza siempre con F6 y el botón rojo de \"Palet not empty\". El sistema retira el palet y te devuelve otro nuevo automáticamente."
+  }
+}

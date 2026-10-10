@@ -243,6 +243,86 @@
   color: #fff;
 }
 
+/* --- Pasos a seguir --- */
+.pasos {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 14px;
+}
+
+.paso {
+  padding: 16px;
+  background: var(--superficie);
+  border: 1px solid var(--borde);
+  border-radius: var(--radio);
+  box-shadow: var(--sombra);
+}
+
+.paso__cabeza {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.paso__numero {
+  flex: none;
+  width: 38px;
+  height: 38px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--rojo);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 1.15rem;
+  font-weight: 800;
+}
+
+.paso__cabeza h2 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.paso__texto {
+  color: var(--texto-suave);
+  font-size: .95rem;
+  margin: 0;
+}
+
+.paso__teclas {
+  display: flex;
+  gap: 8px;
+  margin: 12px 0 0;
+}
+
+.paso__fotos {
+  display: grid;
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.paso__foto {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border: 1px solid var(--borde);
+  border-radius: 10px;
+  background: var(--superficie-2);
+}
+
+@media (min-width: 420px) {
+  .paso__fotos {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .paso__fotos .paso__foto:only-child {
+    grid-column: 1 / -1;
+  }
+}
+
 /* --- Acordeon (comandos) --- */
 .acordeon {
   display: grid;

@@ -2,7 +2,13 @@ import comandos from './comandos.json';
 import consejos from './consejos.json';
 import fotos from './fotos.json';
 import glosario from './glosario.json';
+import pasos from './pasos.json';
 import standard from './standard.json';
+
+import pasosEs from './pasos.es.json';
+import pasosEn from './pasos.en.json';
+import pasosNl from './pasos.nl.json';
+import pasosPl from './pasos.pl.json';
 
 import comandosEs from './comandos.es.json';
 import comandosEn from './comandos.en.json';
@@ -35,13 +41,13 @@ import standardNl from './standard.nl.json';
 import standardPl from './standard.pl.json';
 
 const TEXTOS = {
-  es: { comandos: comandosEs, reglas: reglasEs, consejos: consejosEs, fotos: fotosEs, glosario: glosarioEs, standard: standardEs },
-  en: { comandos: comandosEn, reglas: reglasEn, consejos: consejosEn, fotos: fotosEn, glosario: glosarioEn, standard: standardEn },
-  nl: { comandos: comandosNl, reglas: reglasNl, consejos: consejosNl, fotos: fotosNl, glosario: glosarioNl, standard: standardNl },
-  pl: { comandos: comandosPl, reglas: reglasPl, consejos: consejosPl, fotos: fotosPl, glosario: glosarioPl, standard: standardPl }
+  es: { pasos: pasosEs, comandos: comandosEs, reglas: reglasEs, consejos: consejosEs, fotos: fotosEs, glosario: glosarioEs, standard: standardEs },
+  en: { pasos: pasosEn, comandos: comandosEn, reglas: reglasEn, consejos: consejosEn, fotos: fotosEn, glosario: glosarioEn, standard: standardEn },
+  nl: { pasos: pasosNl, comandos: comandosNl, reglas: reglasNl, consejos: consejosNl, fotos: fotosNl, glosario: glosarioNl, standard: standardNl },
+  pl: { pasos: pasosPl, comandos: comandosPl, reglas: reglasPl, consejos: consejosPl, fotos: fotosPl, glosario: glosarioPl, standard: standardPl }
 };
 
-export const estructura = { comandos, consejos, fotos, glosario, standard };
+export const estructura = { pasos, comandos, consejos, fotos, glosario, standard };
 
 export function textos(idioma) {
   return TEXTOS[idioma] || TEXTOS.es;

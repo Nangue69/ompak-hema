@@ -1,0 +1,34 @@
+{
+  "p1": {
+    "titulo": "Postaw pojemnik na wadze",
+    "texto": "Gdy paleta jest już otwarta, weź pojemnik z linii i postaw go na wadze."
+  },
+  "p2": {
+    "titulo": "Zeskanuj artykuł",
+    "texto": "Pierwszeństwo ma zawsze kod kreskowy. Jeśli nie jest widoczny, odczytaj numer artykułu i wpisz go ręcznie w pole na ekranie, a potem naciśnij Enter. Jeśli numeru nie ma też na artykule, ostatnią opcją jest odczytanie go z kartonu zbiorczego."
+  },
+  "p3": {
+    "titulo": "Zeskanuj kod kreskowy pojemnika",
+    "texto": "Zeskanuj kod na niebieskim pojemniku. Dzięki temu system wie, nad którym pojemnikiem pracujesz."
+  },
+  "p4": {
+    "titulo": "Zarejestruj artykuł i zważ go",
+    "texto": "System poprosi o zarejestrowanie artykułu. Wpisz liczbę artykułów, o którą prosi ekran, do zważenia i zatwierdź klawiszem F5."
+  },
+  "p5": {
+    "titulo": "Napełnij pojemnik i zatwierdź",
+    "texto": "Gdy system sprawdzi wagę, napełnij pojemnik resztą artykułów do wymaganej liczby i naciśnij F5. Pojemnik jedzie na taśmę, a system prosi o kolejny."
+  },
+  "p6": {
+    "titulo": "Gdy waga się nie zgadza, powtórz klawiszem F4",
+    "texto": "Czasem przy rejestrowaniu artykuł nie daje wagi oczekiwanej przez system. Najpierw sprawdź, czy twoja ręka albo jakiś przedmiot nie zniekształca pomiaru. Jeśli nic nie przeszkadza, przejmij błąd klawiszem F4. Pojawi się okno z pytaniem, ile artykułów jest w pojemniku i z ilu sztuk składa się artykuł: jeśli wszystko się zgadza, odpowiedz twierdząco na wszystko i zatwierdź klawiszem F5."
+  },
+  "p7": {
+    "titulo": "Resztę palety rozlicz klawiszem F9",
+    "texto": "Jeśli po zakończeniu zostaną na palecie resztki artykułów, rozlicz je klawiszem F9. Po naciśnięciu zobaczysz, ile artykułów możesz dodać do systemu: wpisz tylko tyle, ile potrzeba, aby zlikwidować paletę, i zatwierdź klawiszem F5."
+  },
+  "p8": {
+    "titulo": "Zamknij paletę klawiszem F6",
+    "texto": "Po zakończeniu palety pojawia się okno zamknięcia. Kończ zawsze klawiszem F6 i czerwonym przyciskiem \"Palet not empty\". System zabiera paletę i automatycznie przysyła nową."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "p1": {
+    "titulo": "Zet de bak op de weegschaal",
+    "texto": "Zodra het pallet open is, pak je een bak van de lijn en zet je hem op de weegschaal."
+  },
+  "p2": {
+    "titulo": "Scan het artikel",
+    "texto": "De barcode gaat altijd voor. Is die niet zichtbaar, neem dan het artikelnummer en typ het met de hand in het veld op het scherm; druk daarna op Enter. Vind je het nummer ook niet op het artikel, dan is de laatste optie het van de goederendoos te nemen."
+  },
+  "p3": {
+    "titulo": "Scan de barcode van de bak",
+    "texto": "Scan de code op de blauwe bak. Zo weet het systeem aan welke tote je werkt."
+  },
+  "p4": {
+    "titulo": "Registreer het artikel en weeg het",
+    "texto": "Het systeem vraagt je het artikel te registreren. Voer het aantal artikelen in dat het scherm vraagt om te wegen en bevestig met F5."
+  },
+  "p5": {
+    "titulo": "Vul de bak en bevestig",
+    "texto": "Heeft het systeem het gewicht gecontroleerd, vul de bak dan met de rest van de artikelen tot het gevraagde aantal en druk op F5. De bak gaat naar de band en het systeem vraagt om de volgende tote."
+  },
+  "p6": {
+    "titulo": "Klopt het gewicht niet, herhaal met F4",
+    "texto": "Soms geeft het artikel bij het registreren niet het gewicht dat het systeem verwacht. Controleer eerst of je hand of een voorwerp de meting niet verstoort. Is er niets, neem de fout dan over met F4. Er verschijnt een venster met de vraag hoeveel artikelen er in de bak zitten en uit hoeveel stuks het artikel bestaat: klopt alles, antwoord dan overal ja en bevestig met F5."
+  },
+  "p7": {
+    "titulo": "Verwerk de rest van het pallet met F9",
+    "texto": "Blijft er aan het eind een restant artikelen op het pallet liggen, verwerk dat dan met F9. Als je drukt, zie je hoeveel artikelen beschikbaar zijn om bij het systeem op te tellen: voer alleen het aantal in dat je nodig hebt om het pallet weg te werken en bevestig met F5."
+  },
+  "p8": {
+    "titulo": "Sluit het pallet af met F6",
+    "texto": "Is het pallet klaar, dan verschijnt het afsluitvenster. Sluit altijd af met F6 en de rode knop \"Palet not empty\". Het systeem haalt het pallet weg en stuurt automatisch een nieuw pallet."
+  }
+}

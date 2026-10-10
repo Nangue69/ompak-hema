@@ -43,7 +43,9 @@
     "consejos_titulo": "Useful tips",
     "consejos_desc": "Tricks and mistakes to avoid",
     "standard_titulo": "Production standard",
-    "standard_desc": "Picks and boxes per hour"
+    "standard_desc": "Picks and boxes per hour",
+    "pasos_titulo": "Steps to follow",
+    "pasos_desc": "The job step by step, from the pallet"
   },
   "comandos": {
     "titulo": "Basic commands",
@@ -83,5 +85,9 @@
   },
   "comun": {
     "revisar": "Draft text, pending review."
+  },
+  "pasos": {
+    "titulo": "Steps to follow",
+    "intro": "The full repacking cycle, in order. Follow the steps exactly as they come."
   }
 }

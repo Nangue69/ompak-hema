@@ -43,7 +43,9 @@
     "consejos_titulo": "Consejos útiles",
     "consejos_desc": "Trucos y errores que debes evitar",
     "standard_titulo": "Standard de producción",
-    "standard_desc": "Picks y cajas por hora"
+    "standard_desc": "Picks y cajas por hora",
+    "pasos_titulo": "Pasos a seguir",
+    "pasos_desc": "El trabajo, paso a paso, desde el palet"
   },
   "comandos": {
     "titulo": "Comandos básicos",
@@ -83,5 +85,9 @@
   },
   "comun": {
     "revisar": "Texto provisional pendiente de revisión."
+  },
+  "pasos": {
+    "titulo": "Pasos a seguir",
+    "intro": "El ciclo completo de reempaque, en orden. Sigue los pasos tal y como vienen."
   }
 }

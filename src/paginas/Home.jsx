@@ -5,6 +5,7 @@ import { useAuth } from '../auth/AuthContext.jsx';
 import { useI18n } from '../i18n/I18nContext.jsx';
 
 const SECCIONES = [
+  { a: '/pasos', icono: '👣', clave: 'pasos' },
   { a: '/comandos', icono: '⌨️', clave: 'comandos' },
   { a: '/reglas', icono: '📋', clave: 'reglas' },
   { a: '/consejos', icono: '💡', clave: 'consejos' },

@@ -1,0 +1,34 @@
+{
+  "p1": {
+    "titulo": "Put the box on the scale",
+    "texto": "Once the pallet is open, take a box from the line and place it on the scale."
+  },
+  "p2": {
+    "titulo": "Scan the article",
+    "texto": "The barcode always comes first. If it is not visible, take the article number and type it by hand in the field on screen, then press Enter. If you cannot find the number on the article either, the last option is to take it from the goods carton."
+  },
+  "p3": {
+    "titulo": "Scan the barcode of the box",
+    "texto": "Scan the code on the blue box. That is how the system knows which tote you are working on."
+  },
+  "p4": {
+    "titulo": "Register the article and weigh it",
+    "texto": "The system asks you to register the article. Enter the number of articles the screen asks for so they can be weighed, and confirm with F5."
+  },
+  "p5": {
+    "titulo": "Fill the box and confirm",
+    "texto": "Once the system has checked the weight, fill the box with the rest of the articles up to the required number and press F5. The box goes out to the conveyor and the system asks for the next tote."
+  },
+  "p6": {
+    "titulo": "If the weight is off, repeat with F4",
+    "texto": "Sometimes, when registering the article, it does not give the weight the system expects. First check that your hand or some object is not distorting the measurement. If there is nothing, accept the error with F4. A window appears asking how many articles are in the box and how many pieces the article contains: if everything is right, answer yes to all and confirm with F5."
+  },
+  "p7": {
+    "titulo": "Handle the rest of the pallet with F9",
+    "texto": "If some articles are left on the pallet when you finish, handle them with F9. When you press it you see how many articles are available to add to the system: enter only the amount you need to clear the pallet and confirm with F5."
+  },
+  "p8": {
+    "titulo": "Close the pallet with F6",
+    "texto": "Once the pallet is finished, the closing window appears. Always finish with F6 and the red \"Palet not empty\" button. The system takes the pallet away and sends you a new one automatically."
+  }
+}

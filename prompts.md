@@ -107,3 +107,25 @@ se queda como estaba.
 (corregido a `/img/`), y los dos primeros despliegues fallaron porque GitHub no deja que un
 flujo automático active Pages la primera vez: tuvo que hacerlo el dueño de la cuenta desde
 Settings → Pages → Source: GitHub Actions.
+
+---
+
+## 5 · 2026-10-10 · Nueva página: Pasos a seguir
+
+**Prompt:** ocho pasos del ciclo de reempaque, con las fotos de la carpeta nueva (`fotos2`)
+para documentar el texto, siguiendo los mismos criterios del resto de la app.
+
+**Entregado:**
+
+- Página nueva `/pasos`, primera tarjeta del menú, con los ocho pasos numerados, su texto, las
+  teclas que intervienen (con el mismo estilo de tecla amarilla de la página de comandos) y las
+  fotos de cada paso.
+- Las nueve fotos, mapeadas a su paso y renombradas con nombres descriptivos
+  (`cajas-linea`, `caja-balanza`, `escanear-articulo`, `pantalla-datos-articulo`,
+  `escanear-caja`, `pantalla-peso`, `pantalla-llenado`, `pantalla-confirmar-tote`,
+  `pantalla-siguiente-tote`). Los pasos 6, 7 y 8 no llevan foto porque no había ninguna.
+- Contenido en los cuatro idiomas y una prueba nueva para la página.
+
+**Nota:** las fotos llegaron en `public/img/fotos2` con sus 28 MB originales, lo que las habría
+publicado sin optimizar. Se movieron a `img/pasos/` (fuera del repositorio) y el script de
+imágenes ahora procesa las dos carpetas: pesan 1,1 MB en la web.
