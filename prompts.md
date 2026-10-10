@@ -154,3 +154,21 @@ la foto nueva y la del puesto despejado mostrada completa.
   etiquetas en la barandilla y los restos pegados en los totes.
 - El pie de "El puesto, despejado" señala ahora la etiqueta pegada en la barandilla, para
   enlazar con el consejo nuevo.
+
+---
+
+## 7 · 2026-10-10 · Consejo fusionado y key-users
+
+**Prompt:** el último consejo y el último error común decían lo mismo; quedarse con el consejo
+y llevarse su foto. Generar al menos tres key-users y uno de administrador que no caduque.
+
+**Entregado:**
+
+- El consejo de las etiquetas se queda con la foto y desaparece la entrada duplicada de la
+  galería de errores. Los consejos admiten foto cuando la llevan (campo `foto` en
+  `consejos.json`); la galería baja a cinco fotos.
+- Cinco key-users de operario con contraseñas nuevas y un usuario `admin` permanente.
+- El campo `"permanente": true` deja al usuario fuera del control de los cinco días, tanto al
+  entrar como en la revisión de la sesión abierta. La pantalla de inicio muestra "Acceso de
+  administrador, sin caducidad" en lugar de los días restantes.
+- `scripts/crear-usuario.mjs` acepta `--permanente`. Dos tests nuevos cubren el caso.

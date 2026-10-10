@@ -4,7 +4,9 @@ import App from './App.jsx';
 import { MS_POR_DIA } from './auth/validez.js';
 
 const USUARIO = 'ompak01';
-const PASSWORD = 'hema1771';
+const PASSWORD = 'ompak-azul-2026';
+const ADMIN = 'admin';
+const PASSWORD_ADMIN = 'duna-duna-3269-brisa';
 
 function entrar(usuario = USUARIO, password = PASSWORD) {
   fireEvent.change(screen.getByLabelText('Key-user'), { target: { value: usuario } });
@@ -47,6 +49,21 @@ describe('acceso', () => {
     await waitFor(() => expect(screen.getByText('Bienvenidos al departamento de Ompak')).toBeTruthy());
 
     vi.unstubAllGlobals();
+  });
+
+  it('el administrador entra aunque su clave sea de hace meses', async () => {
+    localStorage.setItem('hema_keys', JSON.stringify({ [ADMIN]: new Date(Date.now() - 90 * MS_POR_DIA).toISOString() }));
+    render(<App />);
+    entrar(ADMIN, PASSWORD_ADMIN);
+
+    await waitFor(() => expect(screen.getByText('Acceso de administrador, sin caducidad.')).toBeTruthy());
+  });
+
+  it('mantiene abierta la sesion del administrador', async () => {
+    localStorage.setItem('hema_sesion', ADMIN);
+    render(<App />);
+
+    await waitFor(() => expect(screen.getByText('Bienvenidos al departamento de Ompak')).toBeTruthy());
   });
 
   it('bloquea un key-user usado hace mas de cinco dias', async () => {

@@ -24,6 +24,10 @@ function calcularHash(usuario, password) {
   return sha256(`${usuario}:${password}`);
 }
 
+function esPermanente(usuario) {
+  return usuarios.some((registro) => registro.usuario === usuario && registro.permanente);
+}
+
 export function AuthProvider({ children }) {
   const [sesion, setSesion] = useState(() => localStorage.getItem(CLAVE_SESION));
 
@@ -34,7 +38,7 @@ export function AuthProvider({ children }) {
 
   const revisarVigencia = useCallback(() => {
     const actual = localStorage.getItem(CLAVE_SESION);
-    if (!actual) return;
+    if (!actual || esPermanente(actual)) return;
     if (estadoClave(leerRegistro()[actual]) !== 'activa') cerrarSesion();
   }, [cerrarSesion]);
 
@@ -50,6 +54,12 @@ export function AuthProvider({ children }) {
     const encontrado = usuarios.find((registro) => registro.usuario === usuario && registro.hash === hash);
 
     if (!encontrado) return { ok: false, motivo: 'credenciales' };
+
+    if (encontrado.permanente) {
+      localStorage.setItem(CLAVE_SESION, usuario);
+      setSesion(usuario);
+      return { ok: true, permanente: true };
+    }
 
     const registro = leerRegistro();
     const estado = estadoClave(registro[usuario]);
@@ -71,6 +81,7 @@ export function AuthProvider({ children }) {
     () => ({
       usuario: sesion,
       autenticado: Boolean(sesion),
+      permanente: Boolean(sesion) && esPermanente(sesion),
       diasRestantes: sesion ? diasRestantes(leerRegistro()[sesion]) : 0,
       entrar,
       cerrarSesion

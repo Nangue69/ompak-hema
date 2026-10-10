@@ -27,7 +27,8 @@
     "aviso_validez": "Każdy Key-user jest ważny 5 dni od pierwszego użycia.",
     "dias_restantes_uno": "Został Ci 1 dzień dostępu.",
     "dias_restantes_varios": "Zostało Ci {n} dni dostępu.",
-    "error_inesperado": "Wystąpił nieoczekiwany błąd. Powiadom przełożonego."
+    "error_inesperado": "Wystąpił nieoczekiwany błąd. Powiadom przełożonego.",
+    "acceso_permanente": "Dostęp administratora, bez daty wygaśnięcia."
   },
   "sesion": {
     "caducada_titulo": "Dostęp wygasł",

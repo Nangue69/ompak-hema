@@ -27,7 +27,8 @@
     "aviso_validez": "Elke Key-user is 5 dagen geldig vanaf het eerste gebruik.",
     "dias_restantes_uno": "Je hebt nog 1 dag toegang.",
     "dias_restantes_varios": "Je hebt nog {n} dagen toegang.",
-    "error_inesperado": "Er is een onverwachte fout opgetreden. Waarschuw je leidinggevende."
+    "error_inesperado": "Er is een onverwachte fout opgetreden. Waarschuw je leidinggevende.",
+    "acceso_permanente": "Beheerderstoegang, zonder vervaldatum."
   },
   "sesion": {
     "caducada_titulo": "Toegang verlopen",

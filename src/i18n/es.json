@@ -27,7 +27,8 @@
     "aviso_validez": "Cada Key-user es válido 5 días desde el primer uso.",
     "dias_restantes_uno": "Te queda 1 día de acceso.",
     "dias_restantes_varios": "Te quedan {n} días de acceso.",
-    "error_inesperado": "Ha ocurrido un error inesperado. Avisa al responsable."
+    "error_inesperado": "Ha ocurrido un error inesperado. Avisa al responsable.",
+    "acceso_permanente": "Acceso de administrador, sin caducidad."
   },
   "sesion": {
     "caducada_titulo": "Acceso caducado",

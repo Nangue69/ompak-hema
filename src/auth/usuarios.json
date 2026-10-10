@@ -1,22 +1,27 @@
 [
   {
     "usuario": "ompak01",
-    "hash": "cb0757807a0e71bb4ec69b684813d1e12ada3d49b2260feaa7f36745d82c0dd9"
+    "hash": "0a511869f330f24eac72448e78e02126f14e82edc23dc08ad27b0be1c2f5b5d1"
   },
   {
     "usuario": "ompak02",
-    "hash": "583f9994c9465d010ffd437fdeb6717d19afdd9d43093a7494a5f6df722d8c2a"
+    "hash": "c39581b3ff5889372132b9132f3299d859fad46a48951ddd6b23921531a0a6cf"
   },
   {
     "usuario": "ompak03",
-    "hash": "f846e3b979f1d0aa6f6ffa5ed34d63dd3c7caab9ee1bc42dcac371003beb6456"
+    "hash": "4a565591fc9e8c14a719de7028f10ee028b6c6b3f91b48c5adc7e6a54f784c59"
   },
   {
     "usuario": "ompak04",
-    "hash": "6959cfe899f5c22cd6e21df6c6664c88b59b38e41d8555773e16ababdc5fe806"
+    "hash": "bd8e5b2721e773222f4415da4c3e017b23f4a9cfafa0bff5d0bbda56b393d9e6"
   },
   {
     "usuario": "ompak05",
-    "hash": "2af8dd680fd374e13e76634addd9caf05281ce327cd8bf3549376a181849373b"
+    "hash": "839ea838d3f27c433701dff29af3a733420a7ef62380c7e4cd2b67f743ed6e4b"
+  },
+  {
+    "usuario": "admin",
+    "hash": "1372c4fe76a69fce89da0d4c7613ecd418971473901367ce6fefa3999b8af885",
+    "permanente": true
   }
 ]

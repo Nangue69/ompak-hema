@@ -17,24 +17,34 @@ npm run imagenes     # vuelve a optimizar las fotos de img/
 Para probarlo en el móvil durante el desarrollo: `npm run dev -- --host` y abre en el teléfono
 la dirección que aparece en la consola (ambos en la misma red wifi).
 
-## Key-users de prueba
+## Key-users
 
-| Key-user | Contraseña |
-|---|---|
-| ompak01 | hema1771 |
-| ompak02 | hema2284 |
-| ompak03 | hema3395 |
-| ompak04 | hema4406 |
-| ompak05 | hema5517 |
+| Key-user | Contrasena | Caduca |
+|---|---|---|
+| ompak01 | ompak-azul-2026 | a los 5 dias del primer uso |
+| ompak02 | ompak-verde-2026 | a los 5 dias del primer uso |
+| ompak03 | ompak-roble-2026 | a los 5 dias del primer uso |
+| ompak04 | ompak-nieve-2026 | a los 5 dias del primer uso |
+| ompak05 | ompak-torre-2026 | a los 5 dias del primer uso |
+| admin | *(ver nota)* | **nunca** |
 
-**Cámbialos antes de usar la app de verdad.** Para crear uno nuevo:
+El usuario `admin` lleva `"permanente": true` en `src/auth/usuarios.json` y queda fuera del
+control de los cinco dias: no caduca, ni al entrar ni con la sesion ya abierta. Su contrasena
+no se escribe aqui a proposito, porque este repositorio es publico.
+
+Para crear uno nuevo:
 
 ```bash
 node scripts/crear-usuario.mjs ompak06 micontrasena
+node scripts/crear-usuario.mjs jefe micontrasena --permanente
 ```
 
-Pega la línea que imprime en `src/auth/usuarios.json`. Las contraseñas nunca se guardan en
+Pega la linea que imprime en `src/auth/usuarios.json`. Las contrasenas nunca se guardan en
 claro, solo su hash SHA-256.
+
+**Importante, al ser el repositorio publico:** los hashes estan a la vista de cualquiera. Una
+contrasena corta o de diccionario se descifra en segundos, asi que conviene que sean largas y
+sin sentido obvio, sobre todo la de `admin`.
 
 ### Cómo funcionan los 5 días
 

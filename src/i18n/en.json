@@ -27,7 +27,8 @@
     "aviso_validez": "Each Key-user is valid for 5 days from first use.",
     "dias_restantes_uno": "You have 1 day of access left.",
     "dias_restantes_varios": "You have {n} days of access left.",
-    "error_inesperado": "An unexpected error occurred. Tell your supervisor."
+    "error_inesperado": "An unexpected error occurred. Tell your supervisor.",
+    "acceso_permanente": "Administrator access, no expiry date."
   },
   "sesion": {
     "caducada_titulo": "Access expired",

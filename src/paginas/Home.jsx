@@ -14,7 +14,7 @@ const SECCIONES = [
 
 export default function Home() {
   const { t } = useI18n();
-  const { usuario, diasRestantes } = useAuth();
+  const { usuario, permanente, diasRestantes } = useAuth();
 
   return (
     <>
@@ -41,7 +41,11 @@ export default function Home() {
 
         <p className="aviso aviso--info" style={{ marginTop: '24px' }}>
           <span aria-hidden="true">🔑</span>{' '}
-          {diasRestantes === 1 ? t('login.dias_restantes_uno') : t('login.dias_restantes_varios', { n: diasRestantes })}
+          {permanente
+            ? t('login.acceso_permanente')
+            : diasRestantes === 1
+              ? t('login.dias_restantes_uno')
+              : t('login.dias_restantes_varios', { n: diasRestantes })}
         </p>
 
         <PiePagina />

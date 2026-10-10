@@ -517,6 +517,19 @@
   flex: none;
 }
 
+.consejo__cuerpo {
+  min-width: 0;
+}
+
+.consejo__foto {
+  width: 100%;
+  height: auto;
+  margin-top: 12px;
+  border: 1px solid var(--borde);
+  border-radius: 10px;
+  background: var(--superficie-2);
+}
+
 .galeria {
   display: grid;
   gap: 16px;

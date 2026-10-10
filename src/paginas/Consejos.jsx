@@ -18,14 +18,22 @@ export default function Consejos() {
         <p className="subtitulo">{t('consejos.intro')}</p>
 
         <div className="consejos">
-          {estructura.consejos.map(({ id, icono }) => (
+          {estructura.consejos.map(({ id, icono, foto }) => (
             <article className="consejo" key={id}>
               <span className="consejo__icono" aria-hidden="true">
                 {icono}
               </span>
-              <div>
+              <div className="consejo__cuerpo">
                 <h3>{contenido.consejos[id].titulo}</h3>
                 <p className="regla__texto">{contenido.consejos[id].texto}</p>
+                {foto && (
+                  <img
+                    className="consejo__foto"
+                    src={`./img/fotos/${foto}`}
+                    alt={contenido.consejos[id].titulo}
+                    loading="lazy"
+                  />
+                )}
               </div>
             </article>
           ))}
