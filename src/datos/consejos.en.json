@@ -30,5 +30,9 @@
   "c9": {
     "titulo": "Ask for help in time",
     "texto": "When in doubt, ask your nearest supervisor: they are trained to help you. Asking costs one minute; a wrong shipment costs far more."
+  },
+  "c10": {
+    "titulo": "Throw away used labels",
+    "texto": "When you take the used labels off the boxes, throw them away. Do not stick them on the railings or on any other visible surface: that way you avoid damaging the paint and dirtying the workplace."
   }
 }

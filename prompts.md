@@ -134,3 +134,23 @@ imágenes ahora procesa las dos carpetas: pesan 1,1 MB en la web.
 (`pantalla-confirmar-tote` y `pantalla-siguiente-tote`); sus originales quedan en
 `img/pasos/sin-usar/`, fuera del procesado. Quedan pendientes fotos de F4, F9 y del cierre con
 el botón rojo para los pasos 6, 7 y 8, y una foto mejor para el paso 5.
+
+---
+
+## 6 · 2026-10-10 · Fotos completas y consejo de las etiquetas
+
+**Prompt:** las fotos de los pasos 4 y 5 salían cortadas por arriba y no se veían los números
+de la pantalla; añadir un consejo sobre no pegar las etiquetas usadas en las barandillas, con
+la foto nueva y la del puesto despejado mostrada completa.
+
+**Entregado:**
+
+- **Fin del recorte.** Las fotos de los pasos y las de la galería de consejos se mostraban
+  recortadas a 4:3 (`object-fit: cover`), que es lo que se comía la parte alta de las pantallas.
+  Ahora se muestran enteras, con su proporción real, en las dos páginas.
+- Consejo nuevo: deshechar las etiquetas usadas en lugar de pegarlas en barandillas o
+  superficies visibles.
+- Foto nueva en la galería (`etiquetas-barandilla`), marcada como error ⛔: se ve el fajo de
+  etiquetas en la barandilla y los restos pegados en los totes.
+- El pie de "El puesto, despejado" señala ahora la etiqueta pegada en la barandilla, para
+  enlazar con el consejo nuevo.

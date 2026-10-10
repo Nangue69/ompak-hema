@@ -17,6 +17,10 @@
   },
   "f5": {
     "titulo": "Uporządkowane stanowisko",
-    "texto": "Skaner pod ręką, wyłącznik awaryjny wolny i tylko bieżący pojemnik na stole. Nic nie opiera się o taśmę ani o wagę."
+    "texto": "Skaner pod ręką, wyłącznik awaryjny wolny i tylko bieżący pojemnik na stole. Nic nie opiera się o taśmę ani o wagę. Zwróć uwagę na etykietę przyklejoną do barierki: właśnie tego należy unikać."
+  },
+  "f6": {
+    "titulo": "Etykiety przyklejone do barierki",
+    "texto": "Tak nie. Plik zużytych etykiet na barierce i resztki na pojemnikach niszczą lakier i brudzą stanowisko. Zdjęte etykiety trafiają do pojemnika."
   }
 }

@@ -17,6 +17,10 @@
   },
   "f5": {
     "titulo": "Een opgeruimde werkplek",
-    "texto": "Scanner binnen handbereik, noodstop vrij en alleen de lopende tote op tafel. Niets tegen de band of op de weegschaal."
+    "texto": "Scanner binnen handbereik, noodstop vrij en alleen de lopende tote op tafel. Niets tegen de band of op de weegschaal. Let op het label op de leuning: dat is precies wat je moet vermijden."
+  },
+  "f6": {
+    "titulo": "Labels op de leuning geplakt",
+    "texto": "Zo dus niet. De stapel gebruikte labels op de leuning en de resten op de bakken beschadigen de lak en maken de werkplek vuil. Verwijderde labels gaan in de container."
   }
 }

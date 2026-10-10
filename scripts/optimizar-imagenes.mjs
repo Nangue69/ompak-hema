@@ -18,7 +18,8 @@ const CARPETAS = [
       PXL_20260618_175420846: 'medidas-caja',
       'PXL_20201128_092136775.MP': 'tote-bolsas',
       PXL_20201128_092142367: 'tote-fiambreras',
-      IMG_20200331_085158: 'nave-ompak'
+      IMG_20200331_085158: 'nave-ompak',
+      PXL_20261005_120644713: 'etiquetas-barandilla'
     }
   },
   {

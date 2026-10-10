@@ -17,6 +17,10 @@
   },
   "f5": {
     "titulo": "El puesto, despejado",
-    "texto": "Escáner a mano, parada de emergencia libre y solo el tote en curso en la mesa. Nada apoyado sobre la cinta ni sobre la balanza."
+    "texto": "Escáner a mano, parada de emergencia libre y solo el tote en curso en la mesa. Nada apoyado sobre la cinta ni sobre la balanza. Fíjate en la etiqueta pegada en la barandilla: eso es justo lo que hay que evitar."
+  },
+  "f6": {
+    "titulo": "Etiquetas pegadas en la barandilla",
+    "texto": "Así no. El fajo de etiquetas usadas en la barandilla y los restos pegados en los totes estropean la pintura y ensucian el puesto. Las etiquetas retiradas van al contenedor."
   }
 }

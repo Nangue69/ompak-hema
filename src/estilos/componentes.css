@@ -306,8 +306,7 @@
 
 .paso__foto {
   width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
+  height: auto;
   border: 1px solid var(--borde);
   border-radius: 10px;
   background: var(--superficie-2);
@@ -316,6 +315,7 @@
 @media (min-width: 420px) {
   .paso__fotos {
     grid-template-columns: 1fr 1fr;
+    align-items: start;
   }
 
   .paso__fotos .paso__foto:only-child {
@@ -532,8 +532,7 @@
 
 .error-foto__img {
   width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
+  height: auto;
   background: var(--superficie-2);
 }
 
