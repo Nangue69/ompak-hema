@@ -88,6 +88,16 @@ Deja los JPG nuevos en la carpeta que toque, añade su nombre al mapa `nombres` 
 en `scripts/optimizar-imagenes.mjs` y ejecuta `npm run imagenes`. Las fotos se reducen a WebP
 de 1280 px (de 28 MB a poco más de 1 MB) y quedan listas para publicar.
 
+## Fotos pendientes de hacer
+
+- Las ventanas de **F4** (repetir pesaje), **F9** (resto del palet) y la de **cierre con el
+  botón rojo**, para los pasos 6, 7 y 8, que hoy van sin foto.
+- Una foto mejor para el paso 5, que sustituirá a `pantalla-llenado.webp`.
+
+Cuando estén, se dejan en `img/pasos/`, se añaden al mapa `nombres` de
+`scripts/optimizar-imagenes.mjs`, se ejecuta `npm run imagenes` y se enlazan en
+`src/datos/pasos.json`.
+
 ## Qué falta por revisar
 
 1. **Las fotos de la galería.** Hay que decir cuál muestra un acierto y cuál un error, y

@@ -1,10 +1,63 @@
 [
-  { "id": "p1", "fotos": ["cajas-linea.webp", "caja-balanza.webp"] },
-  { "id": "p2", "fotos": ["escanear-articulo.webp", "pantalla-datos-articulo.webp"] },
-  { "id": "p3", "fotos": ["escanear-caja.webp"] },
-  { "id": "p4", "fotos": ["pantalla-peso.webp"], "teclas": ["F5"] },
-  { "id": "p5", "fotos": ["pantalla-llenado.webp", "pantalla-confirmar-tote.webp", "pantalla-siguiente-tote.webp"], "teclas": ["F5"] },
-  { "id": "p6", "fotos": [], "teclas": ["F4", "F5"] },
-  { "id": "p7", "fotos": [], "teclas": ["F9", "F5"] },
-  { "id": "p8", "fotos": [], "teclas": ["F6"] }
+  {
+    "id": "p1",
+    "fotos": [
+      "cajas-linea.webp",
+      "caja-balanza.webp"
+    ]
+  },
+  {
+    "id": "p2",
+    "fotos": [
+      "escanear-articulo.webp",
+      "pantalla-datos-articulo.webp"
+    ]
+  },
+  {
+    "id": "p3",
+    "fotos": [
+      "escanear-caja.webp"
+    ]
+  },
+  {
+    "id": "p4",
+    "fotos": [
+      "pantalla-peso.webp"
+    ],
+    "teclas": [
+      "F5"
+    ]
+  },
+  {
+    "id": "p5",
+    "fotos": [
+      "pantalla-llenado.webp"
+    ],
+    "teclas": [
+      "F5"
+    ]
+  },
+  {
+    "id": "p6",
+    "fotos": [],
+    "teclas": [
+      "F4",
+      "F5"
+    ]
+  },
+  {
+    "id": "p7",
+    "fotos": [],
+    "teclas": [
+      "F9",
+      "F5"
+    ]
+  },
+  {
+    "id": "p8",
+    "fotos": [],
+    "teclas": [
+      "F6"
+    ]
+  }
 ]

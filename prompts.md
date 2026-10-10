@@ -129,3 +129,8 @@ para documentar el texto, siguiendo los mismos criterios del resto de la app.
 **Nota:** las fotos llegaron en `public/img/fotos2` con sus 28 MB originales, lo que las habría
 publicado sin optimizar. Se movieron a `img/pasos/` (fuera del repositorio) y el script de
 imágenes ahora procesa las dos carpetas: pesan 1,1 MB en la web.
+
+**Repaso:** se retiran del paso 5 las dos fotos añadidas por iniciativa propia
+(`pantalla-confirmar-tote` y `pantalla-siguiente-tote`); sus originales quedan en
+`img/pasos/sin-usar/`, fuera del procesado. Quedan pendientes fotos de F4, F9 y del cierre con
+el botón rojo para los pasos 6, 7 y 8, y una foto mejor para el paso 5.

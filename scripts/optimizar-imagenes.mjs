@@ -31,9 +31,7 @@ const CARPETAS = [
       foto4: 'pantalla-datos-articulo',
       foto5: 'escanear-caja',
       foto6: 'pantalla-peso',
-      foto7: 'pantalla-llenado',
-      PXL_20261009_155041130: 'pantalla-confirmar-tote',
-      PXL_20261009_155045622: 'pantalla-siguiente-tote'
+      foto7: 'pantalla-llenado'
     }
   }
 ];
